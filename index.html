@@ -1,105 +1,135 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Explore artificial intelligence, robotics and future technology with NEXORA AI. Understand Tomorrow. Today.">
-  <meta name="theme-color" content="#07111f">
-  <title>NEXORA AI — Understand Tomorrow. Today.</title>
+  <meta name="description" content="Explore artificial intelligence, robotics and future technology with NEXORA AI.">
+  <meta name="theme-color" content="#020805">
+  <title>NEXORA AI — The Future Is Already Here</title>
   <link rel="icon" href="favicon.svg" type="image/svg+xml">
   <link rel="stylesheet" href="styles.css">
+
   <style>
-    body { background:#07111f; color:#eaf2ff; font-family:Arial,sans-serif; margin:0; }
-    header { padding:22px 7%; display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:15px; border-bottom:1px solid #20334c; }
-    header h2 { color:#55e6b0; letter-spacing:2px; margin:0; }
-    nav a { color:#c9d8eb; text-decoration:none; margin-left:18px; }
-    .hero { padding:90px 7%; text-align:center; background:radial-gradient(circle at top,#173b53,#07111f 65%); }
-    .hero h1 { font-size:clamp(38px,7vw,68px); margin:0 0 18px; }
-    .hero h1 span { color:#55e6b0; }
-    .hero p { color:#b7c8dc; font-size:18px; line-height:1.7; }
-    .section { padding:55px 7%; max-width:1100px; margin:auto; }
-    .featured,.card { background:#101f32; border:1px solid #29415b; border-radius:16px; padding:25px; }
-    .featured { margin-top:20px; }
-    .cards { display:grid; grid-template-columns:repeat(auto-fit,minmax(220px,1fr)); gap:20px; }
-    .card a,.read-more { color:#55e6b0; text-decoration:none; font-weight:bold; }
-    .card p,.featured p { color:#b7c8dc; line-height:1.7; }
-    .tag { color:#55e6b0; text-transform:uppercase; letter-spacing:2px; font-size:12px; }
-    footer { text-align:center; padding:30px; border-top:1px solid #20334c; color:#91a6bd; }
-    footer a { color:#55e6b0; margin:0 8px; }
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0;
+      background: #020805;
+      color: #f0fff5;
+      font-family: Arial, sans-serif;
+    }
+    header {
+      padding: 28px 7%;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 28px;
+      border-bottom: 1px solid #163b27;
+    }
+    header h2 {
+      margin: 0;
+      font-size: 34px;
+      letter-spacing: 2px;
+    }
+    header h2 span, .hero h1 span { color: #00d45a; }
+    nav {
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      gap: 24px;
+    }
+    nav a {
+      color: #a8b9ad;
+      text-decoration: none;
+      font-size: 16px;
+    }
+    nav a:hover, footer a:hover { color: #00e66a; }
+    .hero {
+      min-height: 620px;
+      padding: 110px 7%;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      background: radial-gradient(ellipse at 80% 40%, #062313 0%, #020805 65%);
+    }
+    .tag {
+      color: #00d45a;
+      letter-spacing: 5px;
+      font-size: 13px;
+      text-transform: uppercase;
+    }
+    .hero h1 {
+      max-width: 850px;
+      font-size: clamp(46px, 9vw, 82px);
+      line-height: 1.04;
+      margin: 35px 0;
+    }
+    .hero p:not(.tag) {
+      max-width: 650px;
+      color: #a8b9ad;
+      font-size: 19px;
+      line-height: 1.8;
+    }
+    .button {
+      display: inline-block;
+      width: fit-content;
+      margin-top: 25px;
+      padding: 22px 32px;
+      background: #00a82f;
+      color: white;
+      text-decoration: none;
+      font-weight: bold;
+      border-radius: 9px;
+    }
+    .button:hover { background: #00c94b; }
+    .section {
+      padding: 75px 7%;
+      max-width: 1250px;
+      margin: auto;
+    }
+    .section h2 { font-size: 32px; }
+    .featured, .card, .topic {
+      background: #08150d;
+      border: 1px solid #174329;
+      border-radius: 14px;
+      padding: 28px;
+    }
+    .featured p, .card p, .topic p {
+      color: #a8b9ad;
+      line-height: 1.8;
+    }
+    .cards {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+      gap: 20px;
+    }
+    .card h3 { font-size: 22px; }
+    .card a, .read-more {
+      color: #00e66a;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    .topic { margin-top: 22px; }
+    footer {
+      text-align: center;
+      padding: 35px 7%;
+      border-top: 1px solid #163b27;
+      color: #82958a;
+    }
+    footer a {
+      color: #00d45a;
+      text-decoration: none;
+      margin: 0 9px;
+    }
+    @media (max-width: 600px) {
+      .hero { min-height: 570px; padding: 75px 7%; }
+      .tag { letter-spacing: 3px; }
+      nav { gap: 17px; }
+    }
   </style>
 </head>
+
 <body>
-  <header>
-    <h2>NEXORA AI</h2>
-    <nav>
-      <a href="index.html">Home</a>
-      <a href="#explore">Explore</a>
-      <a href="about.html">About</a>
-    </nav>
-  </header>
-
-  <section class="hero">
-    <p class="tag">Artificial Intelligence • Robotics • Future Tech</p>
-    <h1>Understand <span>Tomorrow.</span><br>Today.</h1>
-    <p>Discover the technologies transforming our world.<br>Think beyond today. Explore what comes next.</p>
-  </section>
-
-  <main>
-    <section class="section">
-      <p class="tag">Editor's choice</p>
-      <h2>Start Exploring</h2>
-      <article class="featured">
-        <p class="tag">Artificial Intelligence</p>
-        <h3>What Is Artificial Intelligence?</h3>
-        <p>Discover how AI works, where we use it, and how it may shape the future of humanity.</p>
-        <a class="read-more" href="articles/what-is-artificial-intelligence.html">Read the full article →</a>
-      </article>
-    </section>
-
-    <section class="section" id="explore">
-      <p class="tag">Explore tomorrow</p>
-      <h2>Discover the Future</h2>
-      <div class="cards">
-        <article class="card">
-          <h3>Artificial Intelligence</h3>
-          <p>Explore machine learning, intelligent systems and the evolution of AI.</p>
-          <a href="articles/what-is-artificial-intelligence.html">Explore AI →</a>
-        </article>
-        <article class="card">
-          <h3>Robotics</h3>
-          <p>Meet the machines changing industries, science and everyday life.</p>
-          <a href="#explore">Coming soon</a>
-        </article>
-        <article class="card">
-          <h3>Future Technology</h3>
-          <p>Discover innovations that could redefine tomorrow.</p>
-          <a href="#explore">Coming soon</a>
-        </article>
-      </div>
-    </section>
-  </main>
-
-  <footer>
-    <p>© 2026 NEXORA AI. Exploring tomorrow, today.</p>
-    <a href="about.html">About</a>
-    <a href="privacy.html">Privacy</a>
-    <a href="disclosure.html">Disclosure</a>
-  </footer>
-</body>
-</html>
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="Explore artificial intelligence, robotics and the technologies shaping tomorrow.">
-<title>NEXORA AI — The Future Is Already Here</title>
-<link rel="stylesheet" href="styles.css">
-</head>
-<body>
-
 <header>
   <h2>NEXORA<span>AI</span></h2>
   <nav>
@@ -111,44 +141,76 @@
 </header>
 
 <main>
-<section class="hero" id="home">
-  <p class="tag">THE NEXT ERA OF INNOVATION</p>
-  <h1>THE FUTURE<br>IS ALREADY <span>HERE.</span></h1>
-  <p>Discover artificial intelligence, robotics
-  and the technologies transforming our world.</p>
-  <a class="button" href="#technology">Explore the future →</a>
-</section>
+  <section class="hero" id="home">
+    <p class="tag">The next era of innovation</p>
+    <h1>THE FUTURE<br>IS ALREADY <span>HERE.</span></h1>
+    <p>Discover artificial intelligence, robotics and the technologies transforming our world.</p>
+    <a class="button" href="#technology">Explore the future →</a>
+  </section>
 
-<section id="technology">
-  <h2>Explore Tomorrow</h2>
-  <div class="cards">
-    <article>
-      <h3>Artificial Intelligence</h3>
-      <p>Discover the intelligence shaping the next generation.</p>
-    </article>
-    <article id="robotics">
-      <h3>Robotics</h3>
-      <p>Meet the machines changing how humanity works.</p>
-    </article>
-    <article>
-      <h3>Future Technology</h3>
-      <p>Explore innovations beyond today's imagination.</p>
-    </article>
-  </div>
-</section>
+  <section class="section" id="technology">
+    <p class="tag">Editor's choice</p>
+    <h2>Explore Tomorrow</h2>
 
-<section id="about">
-  <h2>Understand Tomorrow. Today.</h2>
-  <p>NEXORA AI explores the technologies that will define our future.</p>
-</section>
+    <article class="featured">
+      <p class="tag">Artificial Intelligence</p>
+      <h3>What Is Artificial Intelligence?</h3>
+      <p>Discover how AI works, where we use it, and how it may shape the future of humanity.</p>
+      <a class="read-more" href="articles/what-is-artificial-intelligence.html">Read the full article →</a>
+    </article>
+
+    <h2>Discover Our Topics</h2>
+    <div class="cards">
+      <article class="card">
+        <h3>Artificial Intelligence</h3>
+        <p>Explore machine learning, intelligent systems and the evolution of AI.</p>
+        <a href="articles/what-is-artificial-intelligence.html">Explore AI →</a>
+      </article>
+
+      <article class="card">
+        <h3>Robotics</h3>
+        <p>Meet the machines changing industries, science and everyday life.</p>
+        <a href="#robotics">Discover robotics →</a>
+      </article>
+
+      <article class="card">
+        <h3>Future Technology</h3>
+        <p>Explore innovations that could redefine tomorrow.</p>
+        <a href="#future">Discover future tech →</a>
+      </article>
+    </div>
+  </section>
+
+  <section class="section" id="robotics">
+    <p class="tag">Machines & intelligence</p>
+    <h2>The World of Robotics</h2>
+    <div class="topic">
+      <h3>Robots are changing the world</h3>
+      <p>From industrial automation to humanoid machines, robotics is transforming how people live and work. More stories coming soon.</p>
+    </div>
+  </section>
+
+  <section class="section" id="future">
+    <p class="tag">Beyond today</p>
+    <h2>Future Technology</h2>
+    <div class="topic">
+      <h3>What comes next?</h3>
+      <p>Explore emerging technologies, scientific discoveries and ideas that may shape the future. More stories coming soon.</p>
+    </div>
+  </section>
+
+  <section class="section" id="about">
+    <p class="tag">Our mission</p>
+    <h2>Understand Tomorrow. Today.</h2>
+    <p>NEXORA AI explores artificial intelligence, robotics and the technologies that will define our future.</p>
+  </section>
 </main>
 
 <footer>
   <p>© 2026 NEXORA AI. All rights reserved.</p>
+  <a href="about.html">About</a>
+  <a href="privacy.html">Privacy</a>
+  <a href="disclosure.html">Disclosure</a>
 </footer>
-
 </body>
 </html>
-
-
-

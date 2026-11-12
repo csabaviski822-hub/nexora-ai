@@ -7,6 +7,7 @@
   <meta name="theme-color" content="#020805">
   <title>NEXORA AI — A jövő már elkezdődött</title>
   <link rel="icon" href="../favicon.svg" type="image/svg+xml">
+  <link rel="manifest" href="manifest.json">
   <link rel="stylesheet" href="../styles.css">
 
   <style>
@@ -314,5 +315,16 @@
   <a href="../privacy.html">Adatvédelem</a>
   <a href="../disclosure.html">Jogi tájékoztató</a>
 </footer>
+
+  <script>
+    if ("serviceWorker" in navigator) {
+      window.addEventListener("load", () => {
+        navigator.serviceWorker.register("/nexora-ai/service-worker.js", {
+          scope: "/nexora-ai/"
+        }).catch(error => console.error("NEXORA SW:", error));
+      });
+    }
+  </script>
+
 </body>
 </html>

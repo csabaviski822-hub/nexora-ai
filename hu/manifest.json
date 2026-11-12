@@ -1,0 +1,26 @@
+{
+  "id": "/nexora-ai/hu/",
+  "name": "NEXORA AI – Magyar",
+  "short_name": "NEXORA",
+  "description": "Mesterséges intelligencia, robotika és jövőtechnológia.",
+  "lang": "hu",
+  "start_url": "/nexora-ai/hu/",
+  "scope": "/nexora-ai/",
+  "display": "standalone",
+  "background_color": "#020805",
+  "theme_color": "#020805",
+  "icons": [
+    {
+      "src": "/nexora-ai/icons/icon-192.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/nexora-ai/icons/icon-512.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

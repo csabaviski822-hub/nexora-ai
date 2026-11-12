@@ -1,7 +1,25 @@
 {
-  "updated": "2026-11-12T09:55:28.566931+00:00",
+  "updated": "2026-11-12T19:53:05.363847+00:00",
   "total": 78,
   "news": [
+    {
+      "id": "4922ca6fb0dd9299",
+      "title": "Holiday Extras is rethinking what it can build with Codex",
+      "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
+      "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+      "source": "OpenAI",
+      "category": "AI",
+      "published": "Thu, 12 Nov 2026 09:30:00 GMT"
+    },
+    {
+      "id": "d7c1da8cb7dc41da",
+      "title": "Supporting research on AI and children’s safety",
+      "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+      "url": "https://openai.com/index/children-first-declaration",
+      "source": "OpenAI",
+      "category": "AI",
+      "published": "Thu, 12 Nov 2026 00:00:00 GMT"
+    },
     {
       "id": "65b96c238445cded",
       "title": "Gilbert + Tobin rethinks the business of law with AI",
@@ -210,22 +228,13 @@
       "published": "Wed, 04 Nov 2026 14:30:00 GMT"
     },
     {
-      "id": "a3433e936d2c04bf",
-      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
-      "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
-      "url": "https://openai.com/index/daybreak-red-aws-govcloud",
-      "source": "OpenAI",
+      "id": "f19cddd04797ae7d",
+      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+      "summary": "Rotating carousel of cards with text \"Gemini 4 Hydrogen\" \"Now in Google Search\" and examples from the Google Search UI",
+      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+      "source": "Google AI",
       "category": "AI",
-      "published": "Wed, 04 Nov 2026 07:00:00 GMT"
-    },
-    {
-      "id": "fbaa86a829ad59fd",
-      "title": "A thousand fewer paths to root",
-      "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
-      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-      "source": "OpenAI",
-      "category": "AI",
-      "published": "Wed, 04 Nov 2026 08:00:00 GMT"
+      "published": "Thu, 12 Nov 2026 18:00:00 +0000"
     },
     {
       "id": "c06fca3b9549fb95",
@@ -399,13 +408,31 @@
       "published": "Tue, 15 Sep 2026 16:00:00 +0000"
     },
     {
-      "id": "6fff55fdf7cb614f",
-      "title": "Building AI to accelerate science and improve lives",
-      "summary": "B-roll showing diverse environments and people, including a teacher and students in a classroom and a patient with a doctor",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
-      "source": "Google AI",
-      "category": "AI",
-      "published": "Tue, 15 Sep 2026 16:00:00 +0000"
+      "id": "e2593454ec1c4b87",
+      "title": "NVIDIA replaces CEO amid China AI and robotics concerns",
+      "summary": "NVIDIA is replacing co-founder Jensen Huang with Collette Kress as CEO and Harvey C. Jones as board chair as it faces trade scrutiny. The post NVIDIA replaces CEO amid China AI and robotics concerns appeared first on The Robot Report .",
+      "url": "https://www.therobotreport.com/nvidia-replaces-ceo-amid-china-ai-and-robotics-concerns/",
+      "source": "The Robot Report",
+      "category": "ROBOTICS",
+      "published": "Thu, 12 Nov 2026 16:33:17 +0000"
+    },
+    {
+      "id": "898f4c05dbbde32c",
+      "title": "Viam Launchpad aims to accelerate robotics deployments",
+      "summary": "The Viam Launchpad is intended to provide the software and engineering infrastructure to help startups bring robots to commercial deployment. The post Viam Launchpad aims to accelerate robotics deployments appeared first on The Robot Report .",
+      "url": "https://www.therobotreport.com/viam-launchpad-aims-to-accelerate-robotics-deployments/",
+      "source": "The Robot Report",
+      "category": "ROBOTICS",
+      "published": "Thu, 12 Nov 2026 13:30:31 +0000"
+    },
+    {
+      "id": "fed6f15c0915f274",
+      "title": "Runway’s Praxis-1 world action model for robotics is now available",
+      "summary": "Runway launched Praxis-1 with partners including Noble Machines, Standard Bots, and Ultra. Developers can now use it with open weights. The post Runway&#8217;s Praxis-1 world action model for robotics is now available appeared first on The Robot Report .",
+      "url": "https://www.therobotreport.com/runways-praxis-1-world-action-model-for-robotics-is-now-available/",
+      "source": "The Robot Report",
+      "category": "ROBOTICS",
+      "published": "Thu, 12 Nov 2026 13:18:47 +0000"
     },
     {
       "id": "fce6b9be85047b8a",
@@ -514,33 +541,6 @@
       "source": "The Robot Report",
       "category": "ROBOTICS",
       "published": "Sat, 07 Nov 2026 13:32:59 +0000"
-    },
-    {
-      "id": "1473e779d4ce9913",
-      "title": "How Point One turned GPS accuracy into a robotics platform",
-      "summary": "Aaron Nathan explains how precise location technology like GPS is enabling robots to navigate, coordinate, and scale across real environments. The post How Point One turned GPS accuracy into a robotics platform appeared first on The Robot Report .",
-      "url": "https://www.therobotreport.com/how-point-one-turned-gps-accuracy-into-robotics-platform/",
-      "source": "The Robot Report",
-      "category": "ROBOTICS",
-      "published": "Fri, 06 Nov 2026 21:47:35 +0000"
-    },
-    {
-      "id": "f07c9fd0ffd40c37",
-      "title": "Boston Dynamics built Stretch Gen 2 for reliable, consistent performance",
-      "summary": "Brian Donnelly, the VP and GM of logistics robotics at Boston Dynamics, said the new version of Stretch has been in the works for two and a half years. The post Boston Dynamics built Stretch Gen 2 for reliable, consistent performance appeared first on The Robot Report .",
-      "url": "https://www.therobotreport.com/boston-dynamics-built-stretch-gen-2-for-reliable-consistent-performance/",
-      "source": "The Robot Report",
-      "category": "ROBOTICS",
-      "published": "Fri, 06 Nov 2026 21:34:44 +0000"
-    },
-    {
-      "id": "97a086f7921f832c",
-      "title": "Industry experts discuss China blocking SoftBank acquisition of ABB Robotics",
-      "summary": "China's prohibition of SoftBank's purchase of ABB Robotics reflects wider concerns about data and AI, say experts. The post Industry experts discuss China blocking SoftBank acquisition of ABB Robotics appeared first on The Robot Report .",
-      "url": "https://www.therobotreport.com/industry-experts-discuss-china-blocking-softbank-acquisition-abb-robotics/",
-      "source": "The Robot Report",
-      "category": "ROBOTICS",
-      "published": "Fri, 06 Nov 2026 20:41:17 +0000"
     },
     {
       "id": "0a9ebdb63db3687d",

@@ -46,11 +46,53 @@
     nav a:hover, footer a:hover { color: #00e66a; }
     .hero {
       min-height: 620px;
-      padding: 110px 7%;
+      padding: 80px 7%;
       display: flex;
-      flex-direction: column;
-      justify-content: center;
+      align-items: center;
       background: radial-gradient(ellipse at 80% 40%, #062313 0%, #020805 65%);
+      overflow: hidden;
+    }
+    .hero-inner {
+      width: 100%;
+      max-width: 1450px;
+      margin: auto;
+      display: grid;
+      grid-template-columns: 1.1fr 0.9fr;
+      align-items: center;
+      gap: 35px;
+    }
+    .hero-content { position: relative; z-index: 1; }
+    .hero-visual {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-width: 0;
+    }
+    .hero-robot {
+      display: block;
+      width: 100%;
+      max-width: 520px;
+      height: auto;
+      filter: drop-shadow(0 0 25px rgba(0, 230, 106, 0.35));
+      animation: robotFloat 5s ease-in-out infinite, robotGlow 4s ease-in-out infinite;
+    }
+    @keyframes robotFloat {
+      0%, 100% { transform: translateY(0); }
+      50% { transform: translateY(-16px); }
+    }
+    @keyframes robotGlow {
+      0%, 100% { filter: drop-shadow(0 0 18px rgba(0, 230, 106, 0.25)); }
+      50% { filter: drop-shadow(0 0 38px rgba(0, 230, 106, 0.55)); }
+    }
+    @media (max-width: 760px) {
+      .hero { padding: 65px 7%; }
+      .hero-inner { grid-template-columns: 1fr; text-align: center; }
+      .hero-content { display: flex; flex-direction: column; align-items: center; }
+      .hero-visual { max-width: 420px; margin: auto; }
+      .hero-robot { max-width: 100%; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .hero-robot { animation: none; }
     }
     .tag {
       color: #00d45a;
@@ -142,10 +184,17 @@
 
 <main>
   <section class="hero" id="home">
-    <p class="tag">The next era of innovation</p>
-    <h1>THE FUTURE<br>IS ALREADY <span>HERE.</span></h1>
-    <p>Discover artificial intelligence, robotics and the technologies transforming our world.</p>
-    <a class="button" href="#technology">Explore the future →</a>
+    <div class="hero-inner">
+      <div class="hero-content">
+        <p class="tag">The next era of innovation</p>
+        <h1>THE FUTURE<br>IS ALREADY <span>HERE.</span></h1>
+        <p>Discover artificial intelligence, robotics and the technologies transforming our world.</p>
+        <a class="button" href="#technology">Explore the future →</a>
+      </div>
+      <div class="hero-visual">
+        <img class="hero-robot" src="nexora-ai-robot.gif" alt="Cinematic humanoid robot representing the future of AI and robotics">
+      </div>
+    </div>
   </section>
 
   <section class="section" id="technology">

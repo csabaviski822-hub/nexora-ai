@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://csabaviski822-hub.github.io/nexora-ai/sitemap.xml

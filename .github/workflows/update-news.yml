@@ -7,6 +7,7 @@ on:
 
 permissions:
   contents: write
+  actions: write
 
 jobs:
   update-news:
@@ -24,6 +25,8 @@ jobs:
         run: python scripts/fetch_news.py
 
       - name: Save updated news
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
           if git diff --quiet -- data/news.json; then
             echo "No news changes."
@@ -35,3 +38,5 @@ jobs:
           git add data/news.json
           git commit -m "Update AI and robotics news"
           git push
+
+          gh workflow run static.yml --ref main

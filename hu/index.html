@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Fedezd fel a mesterséges intelligencia, a robotika és a jövő technológiáit a NEXORA AI segítségével.">
+  <meta name="theme-color" content="#020805">
+  <title>NEXORA AI — A jövő már elkezdődött</title>
+  <link rel="icon" href="../favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="../styles.css">
+
+  <style>
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0;
+      background: #020805;
+      color: #f0fff5;
+      font-family: Arial, sans-serif;
+    }
+    header {
+      padding: 28px 7%;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 28px;
+      border-bottom: 1px solid #163b27;
+    }
+    header h2 {
+      margin: 0;
+      font-size: 34px;
+      letter-spacing: 2px;
+    }
+    header h2 span, .hero h1 span { color: #00d45a; }
+    nav {
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      gap: 24px;
+    }
+    nav a {
+      color: #a8b9ad;
+      text-decoration: none;
+      font-size: 16px;
+    }
+    nav a:hover, footer a:hover { color: #00e66a; }
+    .hero {
+      min-height: 620px;
+      padding: 80px 7%;
+      display: flex;
+      align-items: center;
+      background: radial-gradient(ellipse at 80% 40%, #062313 0%, #020805 65%);
+      overflow: hidden;
+    }
+    .hero-inner {
+      width: 100%;
+      max-width: 1450px;
+      margin: auto;
+      display: grid;
+      grid-template-columns: 1.1fr 0.9fr;
+      align-items: center;
+      gap: 35px;
+    }
+    .hero-content { position: relative; z-index: 1; }
+    .hero-visual {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-width: 0;
+    }
+    .hero-robot {
+      display: block;
+      width: 100%;
+      max-width: 520px;
+      height: auto;
+      filter: drop-shadow(0 0 25px rgba(0, 230, 106, 0.35));
+      animation: robotFloat 5s ease-in-out infinite, robotGlow 4s ease-in-out infinite;
+    }
+    @keyframes robotFloat {
+      0%, 100% { transform: translateY(0); }
+      50% { transform: translateY(-16px); }
+    }
+    @keyframes robotGlow {
+      0%, 100% { filter: drop-shadow(0 0 18px rgba(0, 230, 106, 0.25)); }
+      50% { filter: drop-shadow(0 0 38px rgba(0, 230, 106, 0.55)); }
+    }
+    @media (max-width: 760px) {
+      .hero { padding: 65px 7%; }
+      .hero-inner { grid-template-columns: 1fr; text-align: center; }
+      .hero-content { display: flex; flex-direction: column; align-items: center; }
+      .hero-visual { max-width: 420px; margin: auto; }
+      .hero-robot { max-width: 100%; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .hero-robot { animation: none; }
+    }
+    .tag {
+      color: #00d45a;
+      letter-spacing: 5px;
+      font-size: 13px;
+      text-transform: uppercase;
+    }
+    .hero h1 {
+      max-width: 850px;
+      font-size: clamp(46px, 9vw, 82px);
+      line-height: 1.04;
+      margin: 35px 0;
+    }
+    .hero p:not(.tag) {
+      max-width: 650px;
+      color: #a8b9ad;
+      font-size: 19px;
+      line-height: 1.8;
+    }
+    .button {
+      display: inline-block;
+      width: fit-content;
+      margin-top: 25px;
+      padding: 22px 32px;
+      background: #00a82f;
+      color: white;
+      text-decoration: none;
+      font-weight: bold;
+      border-radius: 9px;
+    }
+    .button:hover { background: #00c94b; }
+    .section {
+      padding: 75px 7%;
+      max-width: 1250px;
+      margin: auto;
+    }
+    .section h2 { font-size: 32px; }
+    .featured, .card, .topic {
+      background: #08150d;
+      border: 1px solid #174329;
+      border-radius: 14px;
+      padding: 28px;
+    }
+    .featured p, .card p, .topic p {
+      color: #a8b9ad;
+      line-height: 1.8;
+    }
+    .cards {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+      gap: 20px;
+    }
+    .card h3 { font-size: 22px; }
+    .card a, .read-more {
+      color: #00e66a;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    .topic { margin-top: 22px; }
+    footer {
+      text-align: center;
+      padding: 35px 7%;
+      border-top: 1px solid #163b27;
+      color: #82958a;
+    }
+    footer a {
+      color: #00d45a;
+      text-decoration: none;
+      margin: 0 9px;
+    }
+    @media (max-width: 600px) {
+      .hero { min-height: 570px; padding: 75px 7%; }
+      .tag { letter-spacing: 3px; }
+      nav { gap: 17px; }
+    }
+  </style>
+
+  <link rel="canonical" href="https://csabaviski822-hub.github.io/nexora-ai/hu/">
+
+  <link rel="alternate" hreflang="en" href="https://csabaviski822-hub.github.io/nexora-ai/">
+  <link rel="alternate" hreflang="hu" href="https://csabaviski822-hub.github.io/nexora-ai/hu/">
+  <link rel="alternate" hreflang="x-default" href="https://csabaviski822-hub.github.io/nexora-ai/">
+
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="NEXORA AI — A jövő már elkezdődött">
+  <meta property="og:description" content="Fedezd fel a mesterséges intelligencia, a robotika és a jövő technológiáit a NEXORA AI segítségével.">
+  <meta property="og:url" content="https://csabaviski822-hub.github.io/nexora-ai/hu/">
+  <meta property="og:image" content="https://csabaviski822-hub.github.io/nexora-ai/nexora-ai-robot.gif">
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="NEXORA AI — A jövő már elkezdődött">
+  <meta name="twitter:description" content="Fedezd fel a mesterséges intelligencia, a robotika és a jövő technológiáit a NEXORA AI segítségével.">
+  <meta name="twitter:image" content="https://csabaviski822-hub.github.io/nexora-ai/nexora-ai-robot.gif">
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "NEXORA AI",
+    "url": "https://csabaviski822-hub.github.io/nexora-ai/hu/",
+    "description": "Fedezd fel a mesterséges intelligencia, a robotika és a jövő technológiáit a NEXORA AI segítségével."
+  }
+  </script>
+
+</head>
+
+<body>
+<header>
+  <h2>NEXORA<span>AI</span></h2>
+  <nav>
+    <a href="#home">Főoldal</a>
+    <a href="#technology">Technológia</a>
+    <a href="#robotics">Robotika</a>
+    <a href="#about">Rólunk</a>
+    <a href="../">English</a>
+  </nav>
+</header>
+
+<main>
+  <section class="hero" id="home">
+    <div class="hero-inner">
+      <div class="hero-content">
+        <p class="tag">Az innováció következő korszaka</p>
+        <h1>A JÖVŐ<br>MÁR <span>ELKEZDŐDÖTT.</span></h1>
+        <p>Fedezd fel a mesterséges intelligenciát, a robotikát és a világunkat átalakító technológiákat.</p>
+        <a class="button" href="#technology">Fedezd fel a jövőt →</a>
+      </div>
+      <div class="hero-visual">
+        <img class="hero-robot" src="../nexora-ai-robot.gif" alt="Cinematic humanoid robot representing the future of AI and robotics">
+      </div>
+    </div>
+  </section>
+
+  <section class="section" id="technology">
+    <p class="tag">A szerkesztő ajánlata</p>
+    <h2>Fedezd fel a holnapot</h2>
+
+    <article class="featured">
+      <p class="tag">Mesterséges intelligencia</p>
+      <h3>What Is Mesterséges intelligencia?</h3>
+      <p>Ismerd meg, hogyan működik a mesterséges intelligencia, hol használjuk, és hogyan alakíthatja az emberiség jövőjét.</p>
+      <a class="read-more" href="../articles/what-is-artificial-intelligence.html">Olvasd el a teljes cikket →</a>
+    </article>
+
+    <h2>Legfrissebb cikkek</h2>
+    <div class="cards">
+      <article class="card">
+        <p class="tag">Mesterséges intelligencia</p>
+        <h3>PAN 2: A mesterséges intelligencia, amely elképzeli, mi történhet ezután</h3>
+        <p>Ismerd meg, hogyan segíthetik a világmodellek a fizikai események szimulálását és a lehetséges kimenetelek előrejelzését.</p>
+        <a href="../articles/pan-2-world-model.html">Cikk elolvasása →</a>
+      </article>
+
+      <article class="card">
+        <p class="tag">Robotika</p>
+        <h3>Túl a látáson: hogyan tanítja a T-Rex a robotokat az érintés érzékelésére?</h3>
+        <p>Fedezd fel, hogyan segíthetik a tapintásérzékelők a robotokat a kényes tárgyak pontosabb kezelésében.</p>
+        <a href="../articles/trex-robot-touch.html">Cikk elolvasása →</a>
+      </article>
+
+      <article class="card">
+        <p class="tag">Humanoid robotika</p>
+        <h3>Humanoid robotok: az új generáció</h3>
+        <p>Ismerd meg a humanoid robotok legújabb generációját és egyre növekvő szerepüket a való világban.</p>
+        <a href="../articles/humanoid-robots-new-generation.html">Cikk elolvasása →</a>
+      </article>
+    </div>
+
+    <h2>Fedezd fel témáinkat</h2>
+    <div class="cards">
+      <article class="card">
+        <h3>Mesterséges intelligencia</h3>
+        <p>Ismerd meg a gépi tanulást, az intelligens rendszereket és a mesterséges intelligencia fejlődését.</p>
+        <a href="../articles/what-is-artificial-intelligence.html">Fedezd fel az MI-t →</a>
+      </article>
+
+      <article class="card">
+        <h3>Robotika</h3>
+        <p>Ismerd meg az ipart, a tudományt és a mindennapi életet átalakító gépeket.</p>
+        <a href="#robotics">Fedezd fel a robotikát →</a>
+      </article>
+
+      <article class="card">
+        <h3>Jövőtechnológia</h3>
+        <p>Fedezd fel azokat az innovációkat, amelyek újradefiniálhatják a holnapot.</p>
+        <a href="#future">Fedezd fel a jövő technológiáit →</a>
+      </article>
+    </div>
+  </section>
+
+  <section class="section" id="robotics">
+    <p class="tag">Gépek és intelligencia</p>
+    <h2>A robotika világa</h2>
+    <div class="topic">
+      <h3>A robotok megváltoztatják a világot</h3>
+      <p>Az ipari automatizálástól a humanoid gépekig a robotika átalakítja az élet- és munkakörülményeinket. <a href="../articles/humanoid-robots-new-generation.html">Ismerd meg a humanoid robotok új generációját →</a></p>
+    </div>
+  </section>
+
+  <section class="section" id="future">
+    <p class="tag">Túl a jelenen</p>
+    <h2>Jövőtechnológia</h2>
+    <div class="topic">
+      <h3>Mi következik ezután?</h3>
+      <p>Fedezd fel a feltörekvő technológiákat, tudományos felfedezéseket és a jövőt formáló ötleteket. Hamarosan új cikkekkel jelentkezünk.</p>
+    </div>
+  </section>
+
+  <section class="section" id="about">
+    <p class="tag">Küldetésünk</p>
+    <h2>Értsd meg a holnapot. Már ma.</h2>
+    <p>A NEXORA AI a mesterséges intelligenciát, a robotikát és a jövőnket meghatározó technológiákat mutatja be.</p>
+  </section>
+</main>
+
+<footer>
+  <p>© 2026 NEXORA AI. Minden jog fenntartva.</p>
+  <a href="../about.html">Rólunk</a>
+  <a href="../privacy.html">Adatvédelem</a>
+  <a href="../disclosure.html">Jogi tájékoztató</a>
+</footer>
+</body>
+</html>

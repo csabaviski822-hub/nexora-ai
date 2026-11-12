@@ -73,17 +73,17 @@
       width: 100%;
       max-width: 520px;
       height: auto;
-      filter: drop-shadow(0 0 25px rgba(0, 230, 106, 0.35));
-      animation: robotFloat 5s ease-in-out infinite, robotGlow 4s ease-in-out infinite;
+      filter: drop-shadow(0 0 18px rgba(0, 230, 106, 0.3));
+      transform: translateZ(0);
+      backface-visibility: hidden;
+      will-change: transform;
+      animation: robotFloat 6s ease-in-out infinite;
     }
     @keyframes robotFloat {
       0%, 100% { transform: translateY(0); }
-      50% { transform: translateY(-16px); }
+      50% { transform: translate3d(0, -10px, 0); }
     }
-    @keyframes robotGlow {
-      0%, 100% { filter: drop-shadow(0 0 18px rgba(0, 230, 106, 0.25)); }
-      50% { filter: drop-shadow(0 0 38px rgba(0, 230, 106, 0.55)); }
-    }
+
     @media (max-width: 760px) {
       .hero { padding: 65px 7%; }
       .hero-inner { grid-template-columns: 1fr; text-align: center; }

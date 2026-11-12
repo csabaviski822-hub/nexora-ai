@@ -169,6 +169,51 @@
       .tag { letter-spacing: 3px; }
       nav { gap: 17px; }
     }
+
+    .news-status {
+      color: #00e66a;
+      font-size: 13px;
+      margin: 12px 0 24px;
+    }
+    .news-grid {
+      margin-top: 22px;
+    }
+    .news-card {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+      transition: transform .2s ease, border-color .2s ease;
+    }
+    .news-card:hover {
+      transform: translateY(-4px);
+      border-color: #00e66a;
+    }
+    .news-card h3 {
+      line-height: 1.4;
+      overflow-wrap: anywhere;
+    }
+    .news-card .tag {
+      margin: 0;
+      font-size: 11px;
+      letter-spacing: 2px;
+    }
+    .news-source {
+      color: #00e66a !important;
+      font-size: 12px;
+      margin-top: auto;
+    }
+    .news-card a {
+      color: #00e66a;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    .news-card a:hover {
+      text-decoration: underline;
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .news-card { transition: none; }
+      .news-card:hover { transform: none; }
+    }
   </style>
 
   <link rel="canonical" href="https://csabaviski822-hub.github.io/nexora-ai/">
@@ -261,6 +306,10 @@
       </article>
     </div>
 
+    <h2>Live AI & Robotics News</h2>
+    <p class="news-status" id="news-status">Loading news...</p>
+    <div class="cards news-grid" id="news-list"></div>
+
     <h2>Discover Our Topics</h2>
     <div class="cards">
       <article class="card">
@@ -325,5 +374,6 @@
     }
   </script>
 
+  <script src="news.js" defer></script>
 </body>
 </html>

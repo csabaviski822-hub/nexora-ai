@@ -1,0 +1,66 @@
+#nexora-launcher {
+  position: fixed;
+  right: 20px;
+  bottom: 22px;
+  z-index: 9999;
+  width: 62px;
+  height: 62px;
+  border: 1px solid #00e66a;
+  border-radius: 20px;
+  background: #020805;
+  color: #00e66a;
+  font-weight: 900;
+  font-size: 17px;
+  box-shadow: 0 0 22px #00d45a55;
+  cursor: pointer;
+  animation: nexoraPulse 3s infinite;
+}
+#nexora-panel {
+  position: fixed;
+  right: 20px;
+  bottom: 96px;
+  z-index: 9998;
+  width: min(320px, calc(100vw - 40px));
+  padding: 20px;
+  border: 1px solid #17683a;
+  border-radius: 18px;
+  background: #06130b;
+  color: #f0fff5;
+  box-shadow: 0 0 35px #00d45a30;
+  font-family: Arial, sans-serif;
+}
+#nexora-panel[hidden] { display: none; }
+#nexora-panel h3 {
+  color: #00e66a;
+  margin: 0 0 8px;
+}
+#nexora-panel p {
+  color: #a8b9ad;
+  font-size: 13px;
+}
+.nexora-action {
+  display: block;
+  width: 100%;
+  margin-top: 11px;
+  padding: 13px;
+  border: 1px solid #17683a;
+  border-radius: 10px;
+  background: #0b2414;
+  color: #eaffef;
+  text-align: left;
+  cursor: pointer;
+}
+.nexora-action:disabled {
+  opacity: .5;
+  cursor: not-allowed;
+}
+#nexora-panel button:focus-visible {
+  outline: 2px solid #00e66a;
+  outline-offset: 3px;
+}
+@keyframes nexoraPulse {
+  50% { box-shadow: 0 0 32px #00d45a99; }
+}
+@media (prefers-reduced-motion: reduce) {
+  #nexora-launcher { animation: none; }
+}

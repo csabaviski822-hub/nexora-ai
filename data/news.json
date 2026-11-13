@@ -1,7 +1,16 @@
 {
-  "updated": "2026-11-13T06:39:07.874884+00:00",
+  "updated": "2026-11-13T19:39:02.942947+00:00",
   "total": 78,
   "news": [
+    {
+      "id": "7d4d71d056da0286",
+      "title": "Introducing ChatGPT Wallet",
+      "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "source": "OpenAI",
+      "category": "AI",
+      "published": "Fri, 13 Nov 2026 15:00:00 GMT"
+    },
     {
       "id": "67672a694e389b29",
       "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
@@ -219,15 +228,6 @@
       "published": "Thu, 05 Nov 2026 02:00:00 GMT"
     },
     {
-      "id": "2d1d326185a62641",
-      "title": "Flipsnack grows product signups with conversion optimization",
-      "summary": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.",
-      "url": "https://openai.com/ads/customers/flipsnack",
-      "source": "OpenAI",
-      "category": "AI",
-      "published": "Thu, 05 Nov 2026 00:45:15 GMT"
-    },
-    {
       "id": "f19cddd04797ae7d",
       "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
       "summary": "Rotating carousel of cards with text \"Gemini 4 Hydrogen\" \"Now in Google Search\" and examples from the Google Search UI",
@@ -408,6 +408,33 @@
       "published": "Tue, 15 Sep 2026 16:00:00 +0000"
     },
     {
+      "id": "b2e9bb8e9f17ecba",
+      "title": "Six AGIBOT G2 Robots Complete 1,730 Tasks in 24-Hour Shanghai Convenience Store Trial",
+      "summary": "Four of the six robots pass a performance assessment as the trial puts customer service, retail operations and embodied AI capabilities to the test in a working store. The post Six AGIBOT G2 Robots Complete 1,730 Tasks in 24-Hour Shanghai Convenience Store Trial appeared first on The Robot Report .",
+      "url": "https://www.therobotreport.com/six-agibot-g2-robots-complete-1730-tasks-in-24-hour-shanghai-convenience-store-trial/",
+      "source": "The Robot Report",
+      "category": "ROBOTICS",
+      "published": "Fri, 13 Nov 2026 16:32:58 +0000"
+    },
+    {
+      "id": "5939ccc208c746f5",
+      "title": "How Rhoda AI is using video data to create generalized AI models for robots",
+      "summary": "Rhoda AI offers a direct video action model, which it recently extended with mobile DVA, to enable robots to understand the physical world. The post How Rhoda AI is using video data to create generalized AI models for robots appeared first on The Robot Report .",
+      "url": "https://www.therobotreport.com/how-rhoda-ai-is-using-video-data-to-create-generalized-ai-models-for-robots/",
+      "source": "The Robot Report",
+      "category": "ROBOTICS",
+      "published": "Fri, 13 Nov 2026 13:30:44 +0000"
+    },
+    {
+      "id": "30f67a28ec9ab496",
+      "title": "Narwal builds robot vacuums to serve regional needs",
+      "summary": "Narwal executives say they spent a decade in research and development and have tailored their household cleaning robots to local markets. The post Narwal builds robot vacuums to serve regional needs appeared first on The Robot Report .",
+      "url": "https://www.therobotreport.com/narwal-builds-robot-vacuums-to-serve-regional-needs/",
+      "source": "The Robot Report",
+      "category": "ROBOTICS",
+      "published": "Fri, 13 Nov 2026 13:18:05 +0000"
+    },
+    {
       "id": "e2593454ec1c4b87",
       "title": "NVIDIA replaces CEO amid China AI and robotics concerns",
       "summary": "NVIDIA is replacing co-founder Jensen Huang with Collette Kress as CEO and Harvey C. Jones as board chair as it faces trade scrutiny. The post NVIDIA replaces CEO amid China AI and robotics concerns appeared first on The Robot Report .",
@@ -514,33 +541,6 @@
       "source": "The Robot Report",
       "category": "ROBOTICS",
       "published": "Mon, 09 Nov 2026 18:34:38 +0000"
-    },
-    {
-      "id": "a3a07cab5c96230a",
-      "title": "How to minimize Wi-Fi roaming interruptions for autonomous mobile robots",
-      "summary": "Dedicated Wi-Fi scan architectures can improve robot mobility, reliability, and performance, says Synaptics. The post How to minimize Wi-Fi roaming interruptions for autonomous mobile robots appeared first on The Robot Report .",
-      "url": "https://www.therobotreport.com/how-minimize-wi-fi-roaming-interruptions-autonomous-mobile-robots/",
-      "source": "The Robot Report",
-      "category": "ROBOTICS",
-      "published": "Mon, 09 Nov 2026 15:40:41 +0000"
-    },
-    {
-      "id": "2cb803aab82c2379",
-      "title": "ARM Institute consortium grows to more than 500 organizations",
-      "summary": "The ARM Institute reached the milestone as it prepares to host its 10th annual member meeting in Pittsburgh. The post ARM Institute consortium grows to more than 500 organizations appeared first on The Robot Report .",
-      "url": "https://www.therobotreport.com/arm-institute-members-grows-more-than-500-organizations/",
-      "source": "The Robot Report",
-      "category": "ROBOTICS",
-      "published": "Sun, 08 Nov 2026 13:00:23 +0000"
-    },
-    {
-      "id": "f5e25934d45409e3",
-      "title": "Robot integration brings high-precision production to midmarket manufacturers",
-      "summary": "Properly integrated industrial and collaborative robots can help midmarket manufacturers, according to a columnist. The post Robot integration brings high-precision production to midmarket manufacturers appeared first on The Robot Report .",
-      "url": "https://www.therobotreport.com/robot-integration-brings-high-precision-production-to-midmarket-manufacturers/",
-      "source": "The Robot Report",
-      "category": "ROBOTICS",
-      "published": "Sat, 07 Nov 2026 13:32:59 +0000"
     },
     {
       "id": "0a9ebdb63db3687d",

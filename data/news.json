@@ -1,7 +1,88 @@
 {
-  "updated": "2026-11-16T06:21:58.480175+00:00",
+  "updated": "2026-11-16T21:58:20.227201+00:00",
   "total": 78,
   "news": [
+    {
+      "id": "2d7a5d6b20fff3cd",
+      "title": "Broadening access to AI for scientists",
+      "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "source": "OpenAI",
+      "category": "AI",
+      "published": "Mon, 16 Nov 2026 17:00:00 GMT"
+    },
+    {
+      "id": "dd659f011024f04f",
+      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+      "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
+      "url": "https://openai.com/index/strengthening-online-child-safety",
+      "source": "OpenAI",
+      "category": "AI",
+      "published": "Mon, 16 Nov 2026 17:00:00 GMT"
+    },
+    {
+      "id": "d91fd06de7b8771e",
+      "title": "Science at the Frontier: How scientists use ChatGPT",
+      "summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
+      "url": "https://openai.com/index/science-at-the-frontier",
+      "source": "OpenAI",
+      "category": "AI",
+      "published": "Mon, 16 Nov 2026 12:00:00 GMT"
+    },
+    {
+      "id": "ff7833693fa2a067",
+      "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+      "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+      "url": "https://openai.com/index/lvmh-media-division-partnership",
+      "source": "OpenAI",
+      "category": "AI",
+      "published": "Mon, 16 Nov 2026 09:00:00 GMT"
+    },
+    {
+      "id": "9fe6d2ae73e55f52",
+      "title": "Our first phase of embedded assessments",
+      "summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
+      "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+      "source": "OpenAI",
+      "category": "AI",
+      "published": "Mon, 16 Nov 2026 08:00:00 GMT"
+    },
+    {
+      "id": "21b4758ab52123ac",
+      "title": "Advancing computer-use agents for healthcare teams",
+      "summary": "",
+      "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+      "source": "OpenAI",
+      "category": "AI",
+      "published": "Mon, 16 Nov 2026 06:00:00 GMT"
+    },
+    {
+      "id": "21e886491b30cfff",
+      "title": "More ways to move care forward with ChatGPT for Healthcare",
+      "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
+      "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+      "source": "OpenAI",
+      "category": "AI",
+      "published": "Mon, 16 Nov 2026 06:00:00 GMT"
+    },
+    {
+      "id": "60f3c7381bc61eae",
+      "title": "The King’s Trust and OpenAI launch £1m partnership",
+      "summary": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
+      "url": "https://openai.com/index/the-kings-trust-and-openai",
+      "source": "OpenAI",
+      "category": "AI",
+      "published": "Mon, 16 Nov 2026 00:00:00 GMT"
+    },
+    {
+      "id": "3d4aeac88b69acfa",
+      "title": "At Holiday Extras, dots get to work before anyone asks",
+      "summary": "Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work.",
+      "url": "https://openai.com/business/customer-stories/holiday-extras-dots",
+      "source": "OpenAI",
+      "category": "AI",
+      "published": "Mon, 16 Nov 2026 00:00:00 GMT"
+    },
     {
       "id": "2e8f421d2ee2a3df",
       "title": "A step toward defining the Standard Model on a lattice",
@@ -147,85 +228,13 @@
       "published": "Tue, 10 Nov 2026 07:00:00 GMT"
     },
     {
-      "id": "37e4452e64c861cf",
-      "title": "Cogent and OpenAI build cyber defense factories for enterprises",
-      "summary": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
-      "url": "https://openai.com/index/cogent-security",
-      "source": "OpenAI",
+      "id": "dfc32ad6652396f0",
+      "title": "New Ask Maps features to help with holiday travel and prep",
+      "summary": "tbd",
+      "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
+      "source": "Google AI",
       "category": "AI",
-      "published": "Tue, 10 Nov 2026 00:00:00 GMT"
-    },
-    {
-      "id": "caa9073cefb43725",
-      "title": "ChatGPT Enterprise now available in AWS Marketplace",
-      "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
-      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-      "source": "OpenAI",
-      "category": "AI",
-      "published": "Mon, 09 Nov 2026 19:00:00 GMT"
-    },
-    {
-      "id": "952d2516af2e9054",
-      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
-      "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
-      "url": "https://openai.com/index/control-room",
-      "source": "OpenAI",
-      "category": "AI",
-      "published": "Mon, 09 Nov 2026 13:00:00 GMT"
-    },
-    {
-      "id": "02e9abf47eaf3fa0",
-      "title": "CodeRabbit scales agentic software development and ships 20x more",
-      "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
-      "url": "https://openai.com/index/coderabbit-codex-daybreak",
-      "source": "OpenAI",
-      "category": "AI",
-      "published": "Mon, 09 Nov 2026 08:00:00 GMT"
-    },
-    {
-      "id": "2e34e84f0999c607",
-      "title": "Kuken Industries searches 70 years of drawings in minutes",
-      "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
-      "url": "https://openai.com/index/kuken",
-      "source": "OpenAI",
-      "category": "AI",
-      "published": "Mon, 09 Nov 2026 08:00:00 GMT"
-    },
-    {
-      "id": "a0a44ed09dc9a108",
-      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-      "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
-      "url": "https://openai.com/index/partnering-with-hacktron",
-      "source": "OpenAI",
-      "category": "AI",
-      "published": "Fri, 06 Nov 2026 08:00:00 GMT"
-    },
-    {
-      "id": "5f721228af3682c2",
-      "title": "Measuring how AI agents handle everyday wet-lab science",
-      "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
-      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-      "source": "OpenAI",
-      "category": "AI",
-      "published": "Fri, 06 Nov 2026 00:00:00 GMT"
-    },
-    {
-      "id": "616c68177b707eae",
-      "title": "Australian universities are creating AI-native graduates",
-      "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
-      "url": "https://openai.com/index/australian-universities-ai-native-graduates",
-      "source": "OpenAI",
-      "category": "AI",
-      "published": "Thu, 05 Nov 2026 17:00:00 GMT"
-    },
-    {
-      "id": "bbd492caba72ca54",
-      "title": "Cult.fit builds operational muscle with Codex",
-      "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
-      "url": "https://openai.com/index/cultfit-builds-with-codex",
-      "source": "OpenAI",
-      "category": "AI",
-      "published": "Thu, 05 Nov 2026 20:00:00 GMT"
+      "published": "Mon, 16 Nov 2026 14:00:00 +0000"
     },
     {
       "id": "f19cddd04797ae7d",
@@ -399,13 +408,22 @@
       "published": "Thu, 17 Sep 2026 20:00:00 +0000"
     },
     {
-      "id": "970c94673769027a",
-      "title": "AI for Societal Impact",
-      "summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
-      "source": "Google AI",
-      "category": "AI",
-      "published": "Tue, 15 Sep 2026 16:00:00 +0000"
+      "id": "99d139e563a1c8e6",
+      "title": "Agile Robots raises $500M to increase production capacity",
+      "summary": "Agile Robots builds and deploys a range of robots, including humanoids, mobile robots, robotic arms, and robotics hands. The post Agile Robots raises $500M to increase production capacity appeared first on The Robot Report .",
+      "url": "https://www.therobotreport.com/agile-robots-raises-500m-to-increase-production-capacity/",
+      "source": "The Robot Report",
+      "category": "ROBOTICS",
+      "published": "Mon, 16 Nov 2026 17:47:48 +0000"
+    },
+    {
+      "id": "b56f83ea3a644813",
+      "title": "Food robotics 2.0: why this time could be different",
+      "summary": "Food robotics is entering a new era as companies shift from consumer-facing robot restaurants to B2B automation that help food manufacturers, restaurants, and grocery retailers improve productivity, reduce labor costs, and scale operations. The post Food robotics 2.0: why this time could be different appeared first on The Robot Report .",
+      "url": "https://www.therobotreport.com/food-robotics-2-0-why-this-time-could-be-different/",
+      "source": "The Robot Report",
+      "category": "ROBOTICS",
+      "published": "Sat, 14 Nov 2026 13:00:38 +0000"
     },
     {
       "id": "b2e9bb8e9f17ecba",
@@ -525,26 +543,8 @@
       "published": "Tue, 10 Nov 2026 13:06:58 +0000"
     },
     {
-      "id": "fba14c36f624b3bf",
-      "title": "NVIDIA launches GR00T 2 and Isaac Lab 3.0 at CoRL",
-      "summary": "NVIDIA also gave a look at how its partners, like Ambi Robotics, FieldAI, Flexion, Skild AI, RLWRLD, and more, are using these technologies. The post NVIDIA launches GR00T 2 and Isaac Lab 3.0 at CoRL appeared first on The Robot Report .",
-      "url": "https://www.therobotreport.com/nvidia-launches-gr00t-2-isaac-lab-3-0-corl/",
-      "source": "The Robot Report",
-      "category": "ROBOTICS",
-      "published": "Mon, 09 Nov 2026 21:52:05 +0000"
-    },
-    {
-      "id": "8df522ae53a62a34",
-      "title": "Boston Dynamics adds wheels to Atlas humanoid to test whole-body control",
-      "summary": "Boston Dynamics combines classical motor control with whole-body reinforcement learning to power dynamic, wheeled locomotion for Atlas. The post Boston Dynamics adds wheels to Atlas humanoid to test whole-body control appeared first on The Robot Report .",
-      "url": "https://www.therobotreport.com/boston-dynamics-adds-wheels-to-atlas-humanoid-to-test-whole-body-control/",
-      "source": "The Robot Report",
-      "category": "ROBOTICS",
-      "published": "Mon, 09 Nov 2026 18:34:38 +0000"
-    },
-    {
       "id": "0a9ebdb63db3687d",
-      "title": "How AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
+      "title": "AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
       "summary": "Vision AI and robotics pick what’s worth recovering out of conveyor belts of used clothing, bottles and mixed recyclables, diverting thousands of tons of materials from landfills.",
       "url": "https://blogs.nvidia.com/blog/ai-recycling-startups/",
       "source": "NVIDIA Robotics",

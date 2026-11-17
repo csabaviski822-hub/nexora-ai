@@ -1,7 +1,16 @@
 {
-  "updated": "2026-11-16T21:58:20.227201+00:00",
+  "updated": "2026-11-17T07:51:25.150254+00:00",
   "total": 78,
   "news": [
+    {
+      "id": "0e7f690aa4ff229b",
+      "title": "Strengthening NATO and allied cyber defenses with AI",
+      "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "source": "OpenAI",
+      "category": "AI",
+      "published": "Tue, 17 Nov 2026 00:00:00 GMT"
+    },
     {
       "id": "2d7a5d6b20fff3cd",
       "title": "Broadening access to AI for scientists",
@@ -30,6 +39,15 @@
       "published": "Mon, 16 Nov 2026 12:00:00 GMT"
     },
     {
+      "id": "b82b64ef90f76e66",
+      "title": "How Revolut raises ambition without lowering the bar",
+      "summary": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
+      "url": "https://openai.com/business/customer-stories/revolut",
+      "source": "OpenAI",
+      "category": "AI",
+      "published": "Mon, 16 Nov 2026 09:30:00 GMT"
+    },
+    {
       "id": "ff7833693fa2a067",
       "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
       "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
@@ -48,19 +66,19 @@
       "published": "Mon, 16 Nov 2026 08:00:00 GMT"
     },
     {
-      "id": "21b4758ab52123ac",
-      "title": "Advancing computer-use agents for healthcare teams",
-      "summary": "",
-      "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+      "id": "21e886491b30cfff",
+      "title": "More ways to move care forward with ChatGPT for Healthcare",
+      "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
+      "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
       "source": "OpenAI",
       "category": "AI",
       "published": "Mon, 16 Nov 2026 06:00:00 GMT"
     },
     {
-      "id": "21e886491b30cfff",
-      "title": "More ways to move care forward with ChatGPT for Healthcare",
-      "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
-      "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+      "id": "21b4758ab52123ac",
+      "title": "Advancing computer-use agents for healthcare teams",
+      "summary": "",
+      "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
       "source": "OpenAI",
       "category": "AI",
       "published": "Mon, 16 Nov 2026 06:00:00 GMT"
@@ -208,24 +226,6 @@
       "source": "OpenAI",
       "category": "AI",
       "published": "Tue, 10 Nov 2026 09:00:00 GMT"
-    },
-    {
-      "id": "9092d5eb66f29547",
-      "title": "Singapore Airlines elevates travel & work with OpenAI technology",
-      "summary": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
-      "url": "https://openai.com/index/singapore-airlines-travel-work",
-      "source": "OpenAI",
-      "category": "AI",
-      "published": "Tue, 10 Nov 2026 08:00:00 GMT"
-    },
-    {
-      "id": "f3fc54cd1d78c100",
-      "title": "Work at the Frontier: AI’s effect on freelance work",
-      "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
-      "url": "https://openai.com/index/ai-effect-on-freelance-work",
-      "source": "OpenAI",
-      "category": "AI",
-      "published": "Tue, 10 Nov 2026 07:00:00 GMT"
     },
     {
       "id": "dfc32ad6652396f0",
@@ -408,6 +408,15 @@
       "published": "Thu, 17 Sep 2026 20:00:00 +0000"
     },
     {
+      "id": "f31201ec0ba58648",
+      "title": "The hidden reason most robots fail on the factory floor",
+      "summary": "Evan Beard explains how AI-native robotics could make automation easier to program and help American manufacturing compete globally. The post The hidden reason most robots fail on the factory floor appeared first on The Robot Report .",
+      "url": "https://www.therobotreport.com/the-hidden-reason-most-robots-fail-on-the-factory-floor/",
+      "source": "The Robot Report",
+      "category": "ROBOTICS",
+      "published": "Mon, 16 Nov 2026 23:49:56 +0000"
+    },
+    {
       "id": "99d139e563a1c8e6",
       "title": "Agile Robots raises $500M to increase production capacity",
       "summary": "Agile Robots builds and deploys a range of robots, including humanoids, mobile robots, robotic arms, and robotics hands. The post Agile Robots raises $500M to increase production capacity appeared first on The Robot Report .",
@@ -532,15 +541,6 @@
       "source": "The Robot Report",
       "category": "ROBOTICS",
       "published": "Tue, 10 Nov 2026 14:47:10 +0000"
-    },
-    {
-      "id": "7c1620085168766c",
-      "title": "Axon invests $1.2B into Skydio and becomes its U.S. public safety distributor",
-      "summary": "The partners plan to bring Skydio drones to public safety agencies across the U.S. as Axon expands its Drone as First Responder program. The post Axon invests $1.2B into Skydio and becomes its U.S. public safety distributor appeared first on The Robot Report .",
-      "url": "https://www.therobotreport.com/axon-invests-1-2b-into-skydio-and-becomes-its-u-s-public-safety-distributor/",
-      "source": "The Robot Report",
-      "category": "ROBOTICS",
-      "published": "Tue, 10 Nov 2026 13:06:58 +0000"
     },
     {
       "id": "0a9ebdb63db3687d",

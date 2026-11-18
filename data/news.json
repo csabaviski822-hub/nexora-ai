@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T20:51:57.988191+00:00",
+  "updated": "2026-11-18T07:22:56.562462+00:00",
   "total": 78,
   "news": [
     {
@@ -21,19 +21,28 @@
       "published": "Tue, 17 Nov 2026 00:00:00 GMT"
     },
     {
-      "id": "3b3be741a87f5e21",
-      "title": "Introducing OpenAI for Chile",
-      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
-      "url": "https://openai.com/index/introducing-openai-for-chile",
+      "id": "3047d7657748ea76",
+      "title": "Introducing ChatGPT for Sales",
+      "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+      "url": "https://openai.com/index/introducing-chatgpt-for-sales",
       "source": "OpenAI",
       "category": "AI",
-      "published": "Tue, 17 Nov 2026 00:00:00 GMT"
+      "published": "Tue, 17 Nov 2026 08:00:00 GMT"
     },
     {
       "id": "b43ef08ac3ed4f7a",
       "title": "Astra for Law leads in legal intelligence",
       "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
       "url": "https://openai.com/index/astra-law-6-2",
+      "source": "OpenAI",
+      "category": "AI",
+      "published": "Tue, 17 Nov 2026 00:00:00 GMT"
+    },
+    {
+      "id": "3b3be741a87f5e21",
+      "title": "Introducing OpenAI for Chile",
+      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+      "url": "https://openai.com/index/introducing-openai-for-chile",
       "source": "OpenAI",
       "category": "AI",
       "published": "Tue, 17 Nov 2026 00:00:00 GMT"
@@ -93,19 +102,19 @@
       "published": "Mon, 16 Nov 2026 08:00:00 GMT"
     },
     {
-      "id": "21b4758ab52123ac",
-      "title": "Advancing computer-use agents for healthcare teams",
-      "summary": "",
-      "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+      "id": "21e886491b30cfff",
+      "title": "More ways to move care forward with ChatGPT for Healthcare",
+      "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
+      "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
       "source": "OpenAI",
       "category": "AI",
       "published": "Mon, 16 Nov 2026 06:00:00 GMT"
     },
     {
-      "id": "21e886491b30cfff",
-      "title": "More ways to move care forward with ChatGPT for Healthcare",
-      "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
-      "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+      "id": "21b4758ab52123ac",
+      "title": "Advancing computer-use agents for healthcare teams",
+      "summary": "",
+      "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
       "source": "OpenAI",
       "category": "AI",
       "published": "Mon, 16 Nov 2026 06:00:00 GMT"
@@ -217,15 +226,6 @@
       "source": "OpenAI",
       "category": "AI",
       "published": "Thu, 12 Nov 2026 00:00:00 GMT"
-    },
-    {
-      "id": "ac94b61a25ade5ed",
-      "title": "ChatGPT Plus for veterans and servicemembers",
-      "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
-      "url": "https://openai.com/index/chatgpt-plus-for-veterans",
-      "source": "OpenAI",
-      "category": "AI",
-      "published": "Wed, 11 Nov 2026 08:00:00 GMT"
     },
     {
       "id": "b451aff394adbb42",
@@ -408,6 +408,15 @@
       "published": "Fri, 18 Sep 2026 13:00:00 +0000"
     },
     {
+      "id": "62b5fb3e14c61472",
+      "title": "California DMV bars Waymo AVs from operating on the state’s freeways",
+      "summary": "The DMV determined that Waymo's freeway operations \"pose an imminent hazard to public safety due to recurring incursions by its vehicles.\" The post California DMV bars Waymo AVs from operating on the state&#8217;s freeways appeared first on The Robot Report .",
+      "url": "https://www.therobotreport.com/california-dmv-bars-waymo-avs-from-operating-on-the-states-freeways/",
+      "source": "The Robot Report",
+      "category": "ROBOTICS",
+      "published": "Tue, 17 Nov 2026 23:55:07 +0000"
+    },
+    {
       "id": "49b74b50751adb23",
       "title": "Learn how AI is changing supply chain robotics",
       "summary": "The live webinar, \"Robots in the Supply Chain,\" will take place Wednesday, November 18, 2026, at 12 P.M. ET. The post Learn how AI is changing supply chain robotics appeared first on The Robot Report .",
@@ -532,15 +541,6 @@
       "source": "The Robot Report",
       "category": "ROBOTICS",
       "published": "Wed, 11 Nov 2026 12:55:16 +0000"
-    },
-    {
-      "id": "ad215148a91a6a11",
-      "title": "Dynamic Creatures partners with Sixth Wall Studio to bring Hasbro characters to life with robots",
-      "summary": "The companies will combine Sixth Wall’s character authoring and alignment with Dynamic Creatures’ mobile, expressive robots. The post Dynamic Creatures partners with Sixth Wall Studio to bring Hasbro characters to life with robots appeared first on The Robot Report .",
-      "url": "https://www.therobotreport.com/dynamic-creatures-partners-sixth-wall-studio-bring-hasbro-characters-life-with-robots/",
-      "source": "The Robot Report",
-      "category": "ROBOTICS",
-      "published": "Tue, 10 Nov 2026 18:31:17 +0000"
     },
     {
       "id": "0a9ebdb63db3687d",

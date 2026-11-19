@@ -1,7 +1,34 @@
 {
-  "updated": "2026-11-18T20:28:11.182875+00:00",
+  "updated": "2026-11-19T07:20:19.563660+00:00",
   "total": 78,
   "news": [
+    {
+      "id": "184d931227f2504d",
+      "title": "The Silent Consensus",
+      "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+      "url": "https://openai.com/index/the-silent-consensus",
+      "source": "OpenAI",
+      "category": "AI",
+      "published": "Wed, 18 Nov 2026 10:00:00 GMT"
+    },
+    {
+      "id": "58da586369f33999",
+      "title": "Research acceleration: The jagged frontier",
+      "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "source": "OpenAI",
+      "category": "AI",
+      "published": "Wed, 18 Nov 2026 08:00:00 GMT"
+    },
+    {
+      "id": "53d809d7420a3923",
+      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+      "url": "https://openai.com/business/customer-stories/sumitomo-life",
+      "source": "OpenAI",
+      "category": "AI",
+      "published": "Wed, 18 Nov 2026 08:00:00 GMT"
+    },
     {
       "id": "67952d9a918d2536",
       "title": "Inside the Codex sandbox",
@@ -34,15 +61,6 @@
       "title": "Advancing chip design with OpenAI models",
       "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
       "url": "https://openai.com/index/advancing-chip-design-with-our-models",
-      "source": "OpenAI",
-      "category": "AI",
-      "published": "Wed, 18 Nov 2026 00:00:00 GMT"
-    },
-    {
-      "id": "184d931227f2504d",
-      "title": "The Silent Consensus",
-      "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
-      "url": "https://openai.com/index/the-silent-consensus",
       "source": "OpenAI",
       "category": "AI",
       "published": "Wed, 18 Nov 2026 00:00:00 GMT"
@@ -208,24 +226,6 @@
       "source": "OpenAI",
       "category": "AI",
       "published": "Fri, 13 Nov 2026 15:00:00 GMT"
-    },
-    {
-      "id": "a99dfdd20d85acbb",
-      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
-      "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
-      "url": "https://openai.com/business/customer-stories/shield",
-      "source": "OpenAI",
-      "category": "AI",
-      "published": "Fri, 13 Nov 2026 08:00:00 GMT"
-    },
-    {
-      "id": "67672a694e389b29",
-      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-      "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
-      "url": "https://openai.com/business/customer-stories/amplitude",
-      "source": "OpenAI",
-      "category": "AI",
-      "published": "Thu, 12 Nov 2026 20:00:00 GMT"
     },
     {
       "id": "00a064e6720eae62",
@@ -408,6 +408,15 @@
       "published": "Fri, 18 Sep 2026 14:00:00 +0000"
     },
     {
+      "id": "c258415fbe7ccc7c",
+      "title": "Humyn Labs raises $47M to collect real-world data for robotics",
+      "summary": "Humyn Labs provides data collected from real-world operations for frontier AI labs, robotics companies, and world-model developers. The post Humyn Labs raises $47M to collect real-world data for robotics appeared first on The Robot Report .",
+      "url": "https://www.therobotreport.com/humyn-labs-raises-47m-to-collect-real-world-data-for-robotics/",
+      "source": "The Robot Report",
+      "category": "ROBOTICS",
+      "published": "Wed, 18 Nov 2026 22:43:06 +0000"
+    },
+    {
       "id": "9920caf4892cf407",
       "title": "From Commercial Scale to Embodied Intelligence: The Next Challenge for Robotics",
       "summary": "Robotics is advancing rapidly. New AI models and increasingly capable hardware are expanding what machines can perceive, understand and do. The post From Commercial Scale to Embodied Intelligence: The Next Challenge for Robotics appeared first on The Robot Report .",
@@ -532,15 +541,6 @@
       "source": "The Robot Report",
       "category": "ROBOTICS",
       "published": "Thu, 12 Nov 2026 13:18:47 +0000"
-    },
-    {
-      "id": "fce6b9be85047b8a",
-      "title": "Serve Robotics opens robot delivery network for others to build on",
-      "summary": "Serve Robotics says its on-demand delivery API allows third parties to develop new delivery services on its fleet of more than 2,000 robots. The post Serve Robotics opens robot delivery network for others to build on appeared first on The Robot Report .",
-      "url": "https://www.therobotreport.com/serve-robotics-opens-robot-delivery-network-for-others-to-build-on/",
-      "source": "The Robot Report",
-      "category": "ROBOTICS",
-      "published": "Wed, 11 Nov 2026 13:43:29 +0000"
     },
     {
       "id": "0a9ebdb63db3687d",

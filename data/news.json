@@ -1,7 +1,16 @@
 {
-  "updated": "2026-11-19T07:20:19.563660+00:00",
+  "updated": "2026-11-19T20:31:45.478132+00:00",
   "total": 78,
   "news": [
+    {
+      "id": "9342dbf934e428aa",
+      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+      "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+      "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+      "source": "OpenAI",
+      "category": "AI",
+      "published": "Thu, 19 Nov 2026 08:00:00 GMT"
+    },
     {
       "id": "184d931227f2504d",
       "title": "The Silent Consensus",
@@ -12,19 +21,19 @@
       "published": "Wed, 18 Nov 2026 10:00:00 GMT"
     },
     {
-      "id": "58da586369f33999",
-      "title": "Research acceleration: The jagged frontier",
-      "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
-      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "id": "53d809d7420a3923",
+      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+      "url": "https://openai.com/business/customer-stories/sumitomo-life",
       "source": "OpenAI",
       "category": "AI",
       "published": "Wed, 18 Nov 2026 08:00:00 GMT"
     },
     {
-      "id": "53d809d7420a3923",
-      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-      "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
-      "url": "https://openai.com/business/customer-stories/sumitomo-life",
+      "id": "58da586369f33999",
+      "title": "Research acceleration: The jagged frontier",
+      "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
       "source": "OpenAI",
       "category": "AI",
       "published": "Wed, 18 Nov 2026 08:00:00 GMT"
@@ -93,19 +102,19 @@
       "published": "Tue, 17 Nov 2026 08:00:00 GMT"
     },
     {
-      "id": "b43ef08ac3ed4f7a",
-      "title": "Astra for Law leads in legal intelligence",
-      "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
-      "url": "https://openai.com/index/astra-law-6-2",
+      "id": "3b3be741a87f5e21",
+      "title": "Introducing OpenAI for Chile",
+      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+      "url": "https://openai.com/index/introducing-openai-for-chile",
       "source": "OpenAI",
       "category": "AI",
       "published": "Tue, 17 Nov 2026 00:00:00 GMT"
     },
     {
-      "id": "3b3be741a87f5e21",
-      "title": "Introducing OpenAI for Chile",
-      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
-      "url": "https://openai.com/index/introducing-openai-for-chile",
+      "id": "b43ef08ac3ed4f7a",
+      "title": "Astra for Law leads in legal intelligence",
+      "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+      "url": "https://openai.com/index/astra-law-6-2",
       "source": "OpenAI",
       "category": "AI",
       "published": "Tue, 17 Nov 2026 00:00:00 GMT"
@@ -219,13 +228,22 @@
       "published": "Sun, 15 Nov 2026 22:00:00 GMT"
     },
     {
-      "id": "7d4d71d056da0286",
-      "title": "Introducing ChatGPT Wallet",
-      "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
-      "url": "https://openai.com/index/introducing-chatgpt-wallet",
-      "source": "OpenAI",
+      "id": "1b3aafed7dd5d45c",
+      "title": "Introducing Tool Retrieval in the Gemini API",
+      "summary": "Gemini spark on a space background",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+      "source": "Google AI",
       "category": "AI",
-      "published": "Fri, 13 Nov 2026 15:00:00 GMT"
+      "published": "Thu, 19 Nov 2026 18:00:00 +0000"
+    },
+    {
+      "id": "d47c74f9a7ce43a8",
+      "title": "Walter Isaacson on curiosity and creativity in the AI age.",
+      "summary": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
+      "source": "Google AI",
+      "category": "AI",
+      "published": "Thu, 19 Nov 2026 17:00:00 +0000"
     },
     {
       "id": "00a064e6720eae62",
@@ -390,22 +408,13 @@
       "published": "Mon, 28 Sep 2026 19:00:00 +0000"
     },
     {
-      "id": "1ccf342131e2aeec",
-      "title": "Google Beam expands with new regions, partners, and customers",
-      "summary": "Google Beam promotional animation",
-      "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
-      "source": "Google AI",
-      "category": "AI",
-      "published": "Wed, 23 Sep 2026 18:00:00 +0000"
-    },
-    {
-      "id": "d92122e53ec9d4f7",
-      "title": "New experts join Google’s AI & Economy team",
-      "summary": "Text \"AI & Economy Research Program\" all over a green grid background, with the Google G logo in the bottom right corner",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
-      "source": "Google AI",
-      "category": "AI",
-      "published": "Fri, 18 Sep 2026 14:00:00 +0000"
+      "id": "adf4fa130bdea968",
+      "title": "What industrial drone deployments reveal about real-world autonomy challenges",
+      "summary": "The engineering challenges of industrial drone autonomy include GNSS reliability, SLAM, sensor fusion, obstacle avoidance, and UAV validation. The post What industrial drone deployments reveal about real-world autonomy challenges appeared first on The Robot Report .",
+      "url": "https://www.therobotreport.com/what-industrial-drone-deployments-reveal-about-real-world-autonomy-challenges/",
+      "source": "The Robot Report",
+      "category": "ROBOTICS",
+      "published": "Thu, 19 Nov 2026 17:01:55 +0000"
     },
     {
       "id": "c258415fbe7ccc7c",
@@ -534,13 +543,13 @@
       "published": "Thu, 12 Nov 2026 13:30:31 +0000"
     },
     {
-      "id": "fed6f15c0915f274",
-      "title": "Runway’s Praxis-1 world action model for robotics is now available",
-      "summary": "Runway launched Praxis-1 with partners including Noble Machines, Standard Bots, and Ultra. Developers can now use it with open weights. The post Runway&#8217;s Praxis-1 world action model for robotics is now available appeared first on The Robot Report .",
-      "url": "https://www.therobotreport.com/runways-praxis-1-world-action-model-for-robotics-is-now-available/",
-      "source": "The Robot Report",
-      "category": "ROBOTICS",
-      "published": "Thu, 12 Nov 2026 13:18:47 +0000"
+      "id": "5beef147a7815df4",
+      "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+      "summary": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for exploring scenarios, investigating failures and improving designs. Developers direct AI agents through [&#8230;]",
+      "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+      "source": "NVIDIA Robotics",
+      "category": "HUMANOIDS",
+      "published": "Thu, 19 Nov 2026 17:00:35 +0000"
     },
     {
       "id": "0a9ebdb63db3687d",
@@ -568,15 +577,6 @@
       "source": "NVIDIA Robotics",
       "category": "HUMANOIDS",
       "published": "Mon, 09 Nov 2026 05:00:40 +0000"
-    },
-    {
-      "id": "5beef147a7815df4",
-      "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
-      "summary": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for exploring scenarios, investigating failures and improving designs. Developers direct AI agents through [&#8230;]",
-      "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
-      "source": "NVIDIA Robotics",
-      "category": "HUMANOIDS",
-      "published": "Thu, 05 Nov 2026 17:00:35 +0000"
     },
     {
       "id": "b8c778dae6491723",

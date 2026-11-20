@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T20:31:45.478132+00:00",
+  "updated": "2026-11-20T07:09:14.093158+00:00",
   "total": 78,
   "news": [
     {
@@ -12,6 +12,42 @@
       "published": "Thu, 19 Nov 2026 08:00:00 GMT"
     },
     {
+      "id": "a890a236270cc5e3",
+      "title": "Deploying Daybreak Red",
+      "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+      "url": "https://openai.com/business/learn/deploying-daybreak-red",
+      "source": "OpenAI",
+      "category": "AI",
+      "published": "Thu, 19 Nov 2026 00:00:00 GMT"
+    },
+    {
+      "id": "17b7a2b39f098895",
+      "title": "See PR scans in action",
+      "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
+      "url": "https://openai.com/business/learn/pr-scans-demo",
+      "source": "OpenAI",
+      "category": "AI",
+      "published": "Thu, 19 Nov 2026 00:00:00 GMT"
+    },
+    {
+      "id": "82fe289fe466dcc1",
+      "title": "Explore the Codex Security Plugin",
+      "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+      "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+      "source": "OpenAI",
+      "category": "AI",
+      "published": "Thu, 19 Nov 2026 00:00:00 GMT"
+    },
+    {
+      "id": "da30645137037f00",
+      "title": "Get started with Daybreak Blue",
+      "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
+      "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+      "source": "OpenAI",
+      "category": "AI",
+      "published": "Thu, 19 Nov 2026 00:00:00 GMT"
+    },
+    {
       "id": "184d931227f2504d",
       "title": "The Silent Consensus",
       "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
@@ -21,19 +57,19 @@
       "published": "Wed, 18 Nov 2026 10:00:00 GMT"
     },
     {
-      "id": "53d809d7420a3923",
-      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-      "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
-      "url": "https://openai.com/business/customer-stories/sumitomo-life",
+      "id": "58da586369f33999",
+      "title": "Research acceleration: The jagged frontier",
+      "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
       "source": "OpenAI",
       "category": "AI",
       "published": "Wed, 18 Nov 2026 08:00:00 GMT"
     },
     {
-      "id": "58da586369f33999",
-      "title": "Research acceleration: The jagged frontier",
-      "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
-      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "id": "53d809d7420a3923",
+      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+      "url": "https://openai.com/business/customer-stories/sumitomo-life",
       "source": "OpenAI",
       "category": "AI",
       "published": "Wed, 18 Nov 2026 08:00:00 GMT"
@@ -57,19 +93,19 @@
       "published": "Wed, 18 Nov 2026 06:00:00 GMT"
     },
     {
-      "id": "a1de396d3910fa2e",
-      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-      "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
-      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+      "id": "68ddb817fe4001c0",
+      "title": "Advancing chip design with OpenAI models",
+      "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
+      "url": "https://openai.com/index/advancing-chip-design-with-our-models",
       "source": "OpenAI",
       "category": "AI",
       "published": "Wed, 18 Nov 2026 00:00:00 GMT"
     },
     {
-      "id": "68ddb817fe4001c0",
-      "title": "Advancing chip design with OpenAI models",
-      "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
-      "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+      "id": "a1de396d3910fa2e",
+      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
       "source": "OpenAI",
       "category": "AI",
       "published": "Wed, 18 Nov 2026 00:00:00 GMT"
@@ -190,42 +226,6 @@
       "source": "OpenAI",
       "category": "AI",
       "published": "Mon, 16 Nov 2026 06:00:00 GMT"
-    },
-    {
-      "id": "60f3c7381bc61eae",
-      "title": "The King’s Trust and OpenAI launch £1m partnership",
-      "summary": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
-      "url": "https://openai.com/index/the-kings-trust-and-openai",
-      "source": "OpenAI",
-      "category": "AI",
-      "published": "Mon, 16 Nov 2026 00:00:00 GMT"
-    },
-    {
-      "id": "3d4aeac88b69acfa",
-      "title": "At Holiday Extras, dots get to work before anyone asks",
-      "summary": "Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work.",
-      "url": "https://openai.com/business/customer-stories/holiday-extras-dots",
-      "source": "OpenAI",
-      "category": "AI",
-      "published": "Mon, 16 Nov 2026 00:00:00 GMT"
-    },
-    {
-      "id": "2e8f421d2ee2a3df",
-      "title": "A step toward defining the Standard Model on a lattice",
-      "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
-      "url": "https://openai.com/index/step-toward-defining-the-standard-model",
-      "source": "OpenAI",
-      "category": "AI",
-      "published": "Sun, 15 Nov 2026 22:00:01 GMT"
-    },
-    {
-      "id": "33b95c2112c46efd",
-      "title": "Our new blog for science",
-      "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
-      "url": "https://openai.com/index/our-new-blog-for-science",
-      "source": "OpenAI",
-      "category": "AI",
-      "published": "Sun, 15 Nov 2026 22:00:00 GMT"
     },
     {
       "id": "1b3aafed7dd5d45c",
@@ -408,6 +408,15 @@
       "published": "Mon, 28 Sep 2026 19:00:00 +0000"
     },
     {
+      "id": "6a9fca9de7cfbb1c",
+      "title": "Robotics enters its post-Jensen Huang era",
+      "summary": "One of robotics' most influential advocates is gone. Can the industry sustain its momentum without him? The post Robotics enters its post-Jensen Huang era appeared first on The Robot Report .",
+      "url": "https://www.therobotreport.com/robotics-enters-its-post-jensen-huang-era/",
+      "source": "The Robot Report",
+      "category": "ROBOTICS",
+      "published": "Fri, 20 Nov 2026 03:06:28 +0000"
+    },
+    {
       "id": "adf4fa130bdea968",
       "title": "What industrial drone deployments reveal about real-world autonomy challenges",
       "summary": "The engineering challenges of industrial drone autonomy include GNSS reliability, SLAM, sensor fusion, obstacle avoidance, and UAV validation. The post What industrial drone deployments reveal about real-world autonomy challenges appeared first on The Robot Report .",
@@ -532,15 +541,6 @@
       "source": "The Robot Report",
       "category": "ROBOTICS",
       "published": "Thu, 12 Nov 2026 16:33:17 +0000"
-    },
-    {
-      "id": "898f4c05dbbde32c",
-      "title": "Viam Launchpad aims to accelerate robotics deployments",
-      "summary": "The Viam Launchpad is intended to provide the software and engineering infrastructure to help startups bring robots to commercial deployment. The post Viam Launchpad aims to accelerate robotics deployments appeared first on The Robot Report .",
-      "url": "https://www.therobotreport.com/viam-launchpad-aims-to-accelerate-robotics-deployments/",
-      "source": "The Robot Report",
-      "category": "ROBOTICS",
-      "published": "Thu, 12 Nov 2026 13:30:31 +0000"
     },
     {
       "id": "5beef147a7815df4",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T20:10:24.998703+00:00",
+  "updated": "2026-11-21T07:00:18.153575+00:00",
   "total": 78,
   "news": [
     {
@@ -10,6 +10,15 @@
       "source": "OpenAI",
       "category": "AI",
       "published": "Fri, 20 Nov 2026 10:00:00 GMT"
+    },
+    {
+      "id": "8145fefb47ff1ca9",
+      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+      "url": "https://openai.com/business/customer-stories/hebbia",
+      "source": "OpenAI",
+      "category": "AI",
+      "published": "Fri, 20 Nov 2026 00:00:00 GMT"
     },
     {
       "id": "c1a2af93db54bfcf",
@@ -39,15 +48,6 @@
       "published": "Thu, 19 Nov 2026 00:00:00 GMT"
     },
     {
-      "id": "a890a236270cc5e3",
-      "title": "Deploying Daybreak Red",
-      "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
-      "url": "https://openai.com/business/learn/deploying-daybreak-red",
-      "source": "OpenAI",
-      "category": "AI",
-      "published": "Thu, 19 Nov 2026 00:00:00 GMT"
-    },
-    {
       "id": "17b7a2b39f098895",
       "title": "See PR scans in action",
       "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
@@ -61,6 +61,15 @@
       "title": "Get started with Daybreak Blue",
       "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
       "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+      "source": "OpenAI",
+      "category": "AI",
+      "published": "Thu, 19 Nov 2026 00:00:00 GMT"
+    },
+    {
+      "id": "a890a236270cc5e3",
+      "title": "Deploying Daybreak Red",
+      "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+      "url": "https://openai.com/business/learn/deploying-daybreak-red",
       "source": "OpenAI",
       "category": "AI",
       "published": "Thu, 19 Nov 2026 00:00:00 GMT"
@@ -156,19 +165,19 @@
       "published": "Tue, 17 Nov 2026 08:00:00 GMT"
     },
     {
-      "id": "3b3be741a87f5e21",
-      "title": "Introducing OpenAI for Chile",
-      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
-      "url": "https://openai.com/index/introducing-openai-for-chile",
+      "id": "b43ef08ac3ed4f7a",
+      "title": "Astra for Law leads in legal intelligence",
+      "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+      "url": "https://openai.com/index/astra-law-6-2",
       "source": "OpenAI",
       "category": "AI",
       "published": "Tue, 17 Nov 2026 00:00:00 GMT"
     },
     {
-      "id": "b43ef08ac3ed4f7a",
-      "title": "Astra for Law leads in legal intelligence",
-      "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
-      "url": "https://openai.com/index/astra-law-6-2",
+      "id": "3b3be741a87f5e21",
+      "title": "Introducing OpenAI for Chile",
+      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+      "url": "https://openai.com/index/introducing-openai-for-chile",
       "source": "OpenAI",
       "category": "AI",
       "published": "Tue, 17 Nov 2026 00:00:00 GMT"
@@ -217,15 +226,6 @@
       "source": "OpenAI",
       "category": "AI",
       "published": "Mon, 16 Nov 2026 09:00:00 GMT"
-    },
-    {
-      "id": "9fe6d2ae73e55f52",
-      "title": "Our first phase of embedded assessments",
-      "summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
-      "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
-      "source": "OpenAI",
-      "category": "AI",
-      "published": "Mon, 16 Nov 2026 08:00:00 GMT"
     },
     {
       "id": "1b3aafed7dd5d45c",
@@ -408,6 +408,15 @@
       "published": "Mon, 28 Sep 2026 19:00:00 +0000"
     },
     {
+      "id": "45d2025b060b6784",
+      "title": "Medtronic’s Hugo surgical robot ready for bigger operation",
+      "summary": "Globally, the Hugo surgical system is on track to surpass 50,000 cumulative procedures by the end of Medtronic's fiscal year. The post Medtronic&#8217;s Hugo surgical robot ready for bigger operation appeared first on The Robot Report .",
+      "url": "https://www.therobotreport.com/medtronics-hugo-surgical-robot-ready-for-bigger-operation/",
+      "source": "The Robot Report",
+      "category": "ROBOTICS",
+      "published": "Sat, 21 Nov 2026 00:55:45 +0000"
+    },
+    {
       "id": "1fa0b5f80f54a1e2",
       "title": "MassRobotics launching marine robotics facility on Boston Harbor",
       "summary": "MassRobotics plans to open the marine-focused facility in early 2028, with programming starting throughout 2027. The post MassRobotics launching marine robotics facility on Boston Harbor appeared first on The Robot Report .",
@@ -532,15 +541,6 @@
       "source": "The Robot Report",
       "category": "ROBOTICS",
       "published": "Fri, 13 Nov 2026 13:30:44 +0000"
-    },
-    {
-      "id": "30f67a28ec9ab496",
-      "title": "Narwal builds robot vacuums to serve regional needs",
-      "summary": "Narwal executives say they spent a decade in research and development and have tailored their household cleaning robots to local markets. The post Narwal builds robot vacuums to serve regional needs appeared first on The Robot Report .",
-      "url": "https://www.therobotreport.com/narwal-builds-robot-vacuums-to-serve-regional-needs/",
-      "source": "The Robot Report",
-      "category": "ROBOTICS",
-      "published": "Fri, 13 Nov 2026 13:18:05 +0000"
     },
     {
       "id": "5beef147a7815df4",

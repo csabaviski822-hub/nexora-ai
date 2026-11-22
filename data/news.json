@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T19:11:21.007381+00:00",
+  "updated": "2026-11-22T06:41:50.308247+00:00",
   "total": 78,
   "news": [
     {
@@ -408,6 +408,15 @@
       "published": "Mon, 28 Sep 2026 19:00:00 +0000"
     },
     {
+      "id": "cbd74efb6599cef5",
+      "title": "The manufacturing data gap holding back physical AI",
+      "summary": "Manufacturers looking to deploy autonomous robots must close gaps in industrial data collection, interoperability, and quality feedback to enable reliable decision-making and improve production efficiency. The post The manufacturing data gap holding back physical AI appeared first on The Robot Report .",
+      "url": "https://www.therobotreport.com/the-manufacturing-data-gap-holding-back-physical-ai/",
+      "source": "The Robot Report",
+      "category": "ROBOTICS",
+      "published": "Sat, 21 Nov 2026 22:25:35 +0000"
+    },
+    {
       "id": "45d2025b060b6784",
       "title": "Medtronic’s Hugo surgical robot ready for bigger operation",
       "summary": "Globally, the Hugo surgical system is on track to surpass 50,000 cumulative procedures by the end of Medtronic's fiscal year. The post Medtronic&#8217;s Hugo surgical robot ready for bigger operation appeared first on The Robot Report .",
@@ -532,15 +541,6 @@
       "source": "The Robot Report",
       "category": "ROBOTICS",
       "published": "Fri, 13 Nov 2026 16:32:58 +0000"
-    },
-    {
-      "id": "5939ccc208c746f5",
-      "title": "How Rhoda AI is using video data to create generalized AI models for robots",
-      "summary": "Rhoda AI offers a direct video action model, which it recently extended with mobile DVA, to enable robots to understand the physical world. The post How Rhoda AI is using video data to create generalized AI models for robots appeared first on The Robot Report .",
-      "url": "https://www.therobotreport.com/how-rhoda-ai-is-using-video-data-to-create-generalized-ai-models-for-robots/",
-      "source": "The Robot Report",
-      "category": "ROBOTICS",
-      "published": "Fri, 13 Nov 2026 13:30:44 +0000"
     },
     {
       "id": "5beef147a7815df4",

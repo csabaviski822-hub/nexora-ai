@@ -1,7 +1,34 @@
 {
-  "updated": "2026-11-23T07:30:55.018564+00:00",
+  "updated": "2026-11-23T23:50:26.287800+00:00",
   "total": 78,
   "news": [
+    {
+      "id": "b0689cf87ab570a4",
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+      "url": "https://openai.com/index/introducing-shirudo",
+      "source": "OpenAI",
+      "category": "AI",
+      "published": "Mon, 23 Nov 2026 21:20:00 GMT"
+    },
+    {
+      "id": "10878202550bbbf9",
+      "title": "Connected intelligence for in-house legal",
+      "summary": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.",
+      "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+      "source": "OpenAI",
+      "category": "AI",
+      "published": "Mon, 23 Nov 2026 08:00:00 GMT"
+    },
+    {
+      "id": "1259b534687dd8b3",
+      "title": "Richpanel helps companies automate 50% of support in 30 days",
+      "summary": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
+      "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+      "source": "OpenAI",
+      "category": "AI",
+      "published": "Mon, 23 Nov 2026 08:00:00 GMT"
+    },
     {
       "id": "1a10f1676d46fc01",
       "title": "Perplexity and Intelligence",
@@ -48,15 +75,6 @@
       "published": "Thu, 19 Nov 2026 08:00:00 GMT"
     },
     {
-      "id": "a890a236270cc5e3",
-      "title": "Deploying Daybreak Red",
-      "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
-      "url": "https://openai.com/business/learn/deploying-daybreak-red",
-      "source": "OpenAI",
-      "category": "AI",
-      "published": "Thu, 19 Nov 2026 00:00:00 GMT"
-    },
-    {
       "id": "17b7a2b39f098895",
       "title": "See PR scans in action",
       "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
@@ -79,6 +97,15 @@
       "title": "Explore the Codex Security Plugin",
       "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
       "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+      "source": "OpenAI",
+      "category": "AI",
+      "published": "Thu, 19 Nov 2026 00:00:00 GMT"
+    },
+    {
+      "id": "a890a236270cc5e3",
+      "title": "Deploying Daybreak Red",
+      "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+      "url": "https://openai.com/business/learn/deploying-daybreak-red",
       "source": "OpenAI",
       "category": "AI",
       "published": "Thu, 19 Nov 2026 00:00:00 GMT"
@@ -129,19 +156,19 @@
       "published": "Wed, 18 Nov 2026 06:00:00 GMT"
     },
     {
-      "id": "68ddb817fe4001c0",
-      "title": "Advancing chip design with OpenAI models",
-      "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
-      "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+      "id": "a1de396d3910fa2e",
+      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
       "source": "OpenAI",
       "category": "AI",
       "published": "Wed, 18 Nov 2026 00:00:00 GMT"
     },
     {
-      "id": "a1de396d3910fa2e",
-      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-      "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
-      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+      "id": "68ddb817fe4001c0",
+      "title": "Advancing chip design with OpenAI models",
+      "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
+      "url": "https://openai.com/index/advancing-chip-design-with-our-models",
       "source": "OpenAI",
       "category": "AI",
       "published": "Wed, 18 Nov 2026 00:00:00 GMT"
@@ -174,19 +201,19 @@
       "published": "Tue, 17 Nov 2026 08:00:00 GMT"
     },
     {
-      "id": "3b3be741a87f5e21",
-      "title": "Introducing OpenAI for Chile",
-      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
-      "url": "https://openai.com/index/introducing-openai-for-chile",
+      "id": "b43ef08ac3ed4f7a",
+      "title": "Astra for Law leads in legal intelligence",
+      "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+      "url": "https://openai.com/index/astra-law-6-2",
       "source": "OpenAI",
       "category": "AI",
       "published": "Tue, 17 Nov 2026 00:00:00 GMT"
     },
     {
-      "id": "b43ef08ac3ed4f7a",
-      "title": "Astra for Law leads in legal intelligence",
-      "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
-      "url": "https://openai.com/index/astra-law-6-2",
+      "id": "3b3be741a87f5e21",
+      "title": "Introducing OpenAI for Chile",
+      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+      "url": "https://openai.com/index/introducing-openai-for-chile",
       "source": "OpenAI",
       "category": "AI",
       "published": "Tue, 17 Nov 2026 00:00:00 GMT"
@@ -201,31 +228,13 @@
       "published": "Mon, 16 Nov 2026 17:00:00 GMT"
     },
     {
-      "id": "dd659f011024f04f",
-      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
-      "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
-      "url": "https://openai.com/index/strengthening-online-child-safety",
-      "source": "OpenAI",
+      "id": "d6fdac3c20f42b84",
+      "title": "A more tailored Google Search that’s uniquely yours",
+      "summary": "Google Search bar with the text \"Personal Intelligence\" surrounded by the Google Wallet, Google Drive, GMail, Google Photos, Google Calendar, and Google G logo icons",
+      "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+      "source": "Google AI",
       "category": "AI",
-      "published": "Mon, 16 Nov 2026 17:00:00 GMT"
-    },
-    {
-      "id": "d91fd06de7b8771e",
-      "title": "Science at the Frontier: How scientists use ChatGPT",
-      "summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
-      "url": "https://openai.com/index/science-at-the-frontier",
-      "source": "OpenAI",
-      "category": "AI",
-      "published": "Mon, 16 Nov 2026 12:00:00 GMT"
-    },
-    {
-      "id": "b82b64ef90f76e66",
-      "title": "How Revolut raises ambition without lowering the bar",
-      "summary": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
-      "url": "https://openai.com/business/customer-stories/revolut",
-      "source": "OpenAI",
-      "category": "AI",
-      "published": "Mon, 16 Nov 2026 09:30:00 GMT"
+      "published": "Mon, 23 Nov 2026 17:00:00 +0000"
     },
     {
       "id": "1b3aafed7dd5d45c",
@@ -399,13 +408,31 @@
       "published": "Fri, 02 Oct 2026 15:00:00 +0000"
     },
     {
-      "id": "db713ef86bd59ea8",
-      "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-      "summary": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
-      "source": "Google AI",
-      "category": "AI",
-      "published": "Mon, 28 Sep 2026 19:00:00 +0000"
+      "id": "3833c8ff06f9bf9f",
+      "title": "How does Orchard AI fit into John Deere’s technology portfolio?",
+      "summary": "John Deere said the deal strengthens its ability to help growers make more informed decisions throughout the growing season. The post How does Orchard AI fit into John Deere&#8217;s technology portfolio? appeared first on The Robot Report .",
+      "url": "https://www.therobotreport.com/how-does-orchard-ai-fit-into-john-deeres-technology-portfolio/",
+      "source": "The Robot Report",
+      "category": "ROBOTICS",
+      "published": "Mon, 23 Nov 2026 20:29:55 +0000"
+    },
+    {
+      "id": "391998b2b040a15f",
+      "title": "Special Report: Engineering Focus on Motion Control",
+      "summary": "The Robot Report looks at recent advances in automation for manufacturing, from improvements in technologies and use cases to the potential of humanoids and AI. The post Special Report: Engineering Focus on Motion Control appeared first on The Robot Report .",
+      "url": "https://www.therobotreport.com/special-report-engineering-focus-on-motion-control/",
+      "source": "The Robot Report",
+      "category": "ROBOTICS",
+      "published": "Mon, 23 Nov 2026 15:16:26 +0000"
+    },
+    {
+      "id": "6679fa4d5ff5d555",
+      "title": "NVIDIA reinstates Jensen Huang after 11-day absence",
+      "summary": "The NVIDIA board reversed its decision following discussions with Huang and senior U.S. government officials, amid growing pressure from the White House, investors and technology executives. The post NVIDIA reinstates Jensen Huang after 11-day absence appeared first on The Robot Report .",
+      "url": "https://www.therobotreport.com/nvidia-reinstates-jensen-huang-after-11-day-absence/",
+      "source": "The Robot Report",
+      "category": "ROBOTICS",
+      "published": "Mon, 23 Nov 2026 14:20:46 +0000"
     },
     {
       "id": "cbd74efb6599cef5",
@@ -514,33 +541,6 @@
       "source": "The Robot Report",
       "category": "ROBOTICS",
       "published": "Mon, 16 Nov 2026 23:49:56 +0000"
-    },
-    {
-      "id": "99d139e563a1c8e6",
-      "title": "Agile Robots raises $500M to increase production capacity",
-      "summary": "Agile Robots builds and deploys a range of robots, including humanoids, mobile robots, robotic arms, and robotics hands. The post Agile Robots raises $500M to increase production capacity appeared first on The Robot Report .",
-      "url": "https://www.therobotreport.com/agile-robots-raises-500m-to-increase-production-capacity/",
-      "source": "The Robot Report",
-      "category": "ROBOTICS",
-      "published": "Mon, 16 Nov 2026 17:47:48 +0000"
-    },
-    {
-      "id": "b56f83ea3a644813",
-      "title": "Food robotics 2.0: why this time could be different",
-      "summary": "Food robotics is entering a new era as companies shift from consumer-facing robot restaurants to B2B automation that help food manufacturers, restaurants, and grocery retailers improve productivity, reduce labor costs, and scale operations. The post Food robotics 2.0: why this time could be different appeared first on The Robot Report .",
-      "url": "https://www.therobotreport.com/food-robotics-2-0-why-this-time-could-be-different/",
-      "source": "The Robot Report",
-      "category": "ROBOTICS",
-      "published": "Sat, 14 Nov 2026 13:00:38 +0000"
-    },
-    {
-      "id": "b2e9bb8e9f17ecba",
-      "title": "Six AGIBOT G2 Robots Complete 1,730 Tasks in 24-Hour Shanghai Convenience Store Trial",
-      "summary": "Four of the six robots pass a performance assessment as the trial puts customer service, retail operations and embodied AI capabilities to the test in a working store. The post Six AGIBOT G2 Robots Complete 1,730 Tasks in 24-Hour Shanghai Convenience Store Trial appeared first on The Robot Report .",
-      "url": "https://www.therobotreport.com/six-agibot-g2-robots-complete-1730-tasks-in-24-hour-shanghai-convenience-store-trial/",
-      "source": "The Robot Report",
-      "category": "ROBOTICS",
-      "published": "Fri, 13 Nov 2026 16:32:58 +0000"
     },
     {
       "id": "5beef147a7815df4",

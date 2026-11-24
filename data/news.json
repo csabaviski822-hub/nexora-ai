@@ -1,7 +1,43 @@
 {
-  "updated": "2026-11-24T09:49:44.106605+00:00",
+  "updated": "2026-11-24T22:23:03.961666+00:00",
   "total": 78,
   "news": [
+    {
+      "id": "ac2f786b30f6d457",
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "source": "OpenAI",
+      "category": "AI",
+      "published": "Tue, 24 Nov 2026 13:00:00 GMT"
+    },
+    {
+      "id": "7758c04a629331bf",
+      "title": "Searching for distant planets with Astra",
+      "summary": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
+      "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+      "source": "OpenAI",
+      "category": "AI",
+      "published": "Tue, 24 Nov 2026 11:00:00 GMT"
+    },
+    {
+      "id": "7e14b56be6744308",
+      "title": "How Intentful uses dots to make more time for growth",
+      "summary": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
+      "url": "https://openai.com/business/customer-stories/intentful-dots",
+      "source": "OpenAI",
+      "category": "AI",
+      "published": "Tue, 24 Nov 2026 00:00:00 GMT"
+    },
+    {
+      "id": "89a905d5eae9fa3e",
+      "title": "How iFood scales coding agents across 15,000 repositories",
+      "summary": "",
+      "url": "https://openai.com/business/customer-stories/ifood",
+      "source": "OpenAI",
+      "category": "AI",
+      "published": "Tue, 24 Nov 2026 00:00:00 GMT"
+    },
     {
       "id": "b0689cf87ab570a4",
       "title": "OpenAI and Cisco introduce Shirudo",
@@ -75,24 +111,6 @@
       "published": "Thu, 19 Nov 2026 08:00:00 GMT"
     },
     {
-      "id": "17b7a2b39f098895",
-      "title": "See PR scans in action",
-      "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
-      "url": "https://openai.com/business/learn/pr-scans-demo",
-      "source": "OpenAI",
-      "category": "AI",
-      "published": "Thu, 19 Nov 2026 00:00:00 GMT"
-    },
-    {
-      "id": "da30645137037f00",
-      "title": "Get started with Daybreak Blue",
-      "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
-      "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
-      "source": "OpenAI",
-      "category": "AI",
-      "published": "Thu, 19 Nov 2026 00:00:00 GMT"
-    },
-    {
       "id": "82fe289fe466dcc1",
       "title": "Explore the Codex Security Plugin",
       "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
@@ -111,6 +129,24 @@
       "published": "Thu, 19 Nov 2026 00:00:00 GMT"
     },
     {
+      "id": "17b7a2b39f098895",
+      "title": "See PR scans in action",
+      "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
+      "url": "https://openai.com/business/learn/pr-scans-demo",
+      "source": "OpenAI",
+      "category": "AI",
+      "published": "Thu, 19 Nov 2026 00:00:00 GMT"
+    },
+    {
+      "id": "da30645137037f00",
+      "title": "Get started with Daybreak Blue",
+      "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
+      "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+      "source": "OpenAI",
+      "category": "AI",
+      "published": "Thu, 19 Nov 2026 00:00:00 GMT"
+    },
+    {
       "id": "184d931227f2504d",
       "title": "The Silent Consensus",
       "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
@@ -120,19 +156,19 @@
       "published": "Wed, 18 Nov 2026 10:00:00 GMT"
     },
     {
-      "id": "58da586369f33999",
-      "title": "Research acceleration: The jagged frontier",
-      "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
-      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "id": "53d809d7420a3923",
+      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+      "url": "https://openai.com/business/customer-stories/sumitomo-life",
       "source": "OpenAI",
       "category": "AI",
       "published": "Wed, 18 Nov 2026 08:00:00 GMT"
     },
     {
-      "id": "53d809d7420a3923",
-      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-      "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
-      "url": "https://openai.com/business/customer-stories/sumitomo-life",
+      "id": "58da586369f33999",
+      "title": "Research acceleration: The jagged frontier",
+      "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
       "source": "OpenAI",
       "category": "AI",
       "published": "Wed, 18 Nov 2026 08:00:00 GMT"
@@ -192,40 +228,13 @@
       "published": "Tue, 17 Nov 2026 00:00:00 GMT"
     },
     {
-      "id": "3047d7657748ea76",
-      "title": "Introducing ChatGPT for Sales",
-      "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
-      "url": "https://openai.com/index/introducing-chatgpt-for-sales",
-      "source": "OpenAI",
+      "id": "0d108e7b71c40649",
+      "title": "How Gemini is changing the game for Golden State's organization and fans.",
+      "summary": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.",
+      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+      "source": "Google AI",
       "category": "AI",
-      "published": "Tue, 17 Nov 2026 08:00:00 GMT"
-    },
-    {
-      "id": "b43ef08ac3ed4f7a",
-      "title": "Astra for Law leads in legal intelligence",
-      "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
-      "url": "https://openai.com/index/astra-law-6-2",
-      "source": "OpenAI",
-      "category": "AI",
-      "published": "Tue, 17 Nov 2026 00:00:00 GMT"
-    },
-    {
-      "id": "3b3be741a87f5e21",
-      "title": "Introducing OpenAI for Chile",
-      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
-      "url": "https://openai.com/index/introducing-openai-for-chile",
-      "source": "OpenAI",
-      "category": "AI",
-      "published": "Tue, 17 Nov 2026 00:00:00 GMT"
-    },
-    {
-      "id": "2d7a5d6b20fff3cd",
-      "title": "Broadening access to AI for scientists",
-      "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
-      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
-      "source": "OpenAI",
-      "category": "AI",
-      "published": "Mon, 16 Nov 2026 17:00:00 GMT"
+      "published": "Tue, 24 Nov 2026 16:00:00 +0000"
     },
     {
       "id": "d6fdac3c20f42b84",
@@ -399,13 +408,22 @@
       "published": "Wed, 07 Oct 2026 12:00:00 +0000"
     },
     {
-      "id": "6a7bb4e3e69d69f5",
-      "title": "The latest AI news we announced in September 2026",
-      "summary": "A video showing the September AI updates",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
-      "source": "Google AI",
-      "category": "AI",
-      "published": "Fri, 02 Oct 2026 15:00:00 +0000"
+      "id": "ba0114c253413340",
+      "title": "Robotics Summit 2027 opens call for speakers",
+      "summary": "The Robotics Summit &#038; Expo returns to Boston June 2-3, 2027 with deepened coverage, an expanded expo floor, and more. The post Robotics Summit 2027 opens call for speakers appeared first on The Robot Report .",
+      "url": "https://www.therobotreport.com/robotics-summit-2027-opens-call-for-speakers/",
+      "source": "The Robot Report",
+      "category": "ROBOTICS",
+      "published": "Tue, 24 Nov 2026 18:03:37 +0000"
+    },
+    {
+      "id": "187222064d7c08dd",
+      "title": "SoftBank acquires Marc Raibert’s Robotics and AI Institute",
+      "summary": "SoftBank has completed its acquisition of the Robotics and AI Institute from Hyundai Motor Group, expanding its robotics portfolio as the research organization looks to fill 24 open positions in Massachusetts and Switzerland. The post SoftBank acquires Marc Raibert&#8217;s Robotics and AI Institute appeared first on The Robot Report .",
+      "url": "https://www.therobotreport.com/softbank-acquires-marc-raiberts-robotics-and-ai-institute/",
+      "source": "The Robot Report",
+      "category": "ROBOTICS",
+      "published": "Tue, 24 Nov 2026 14:48:57 +0000"
     },
     {
       "id": "3833c8ff06f9bf9f",
@@ -523,24 +541,6 @@
       "source": "The Robot Report",
       "category": "ROBOTICS",
       "published": "Tue, 17 Nov 2026 19:58:18 +0000"
-    },
-    {
-      "id": "fe29792d041e45d6",
-      "title": "Boston Dynamics’ Atlas humanoid lands first non-automotive trial",
-      "summary": "Boston Dynamics’ Atlas humanoid robot will undergo its first trials outside the automotive industry at a major semiconductor manufacturer in early 2027. The post Boston Dynamics’ Atlas humanoid lands first non-automotive trial appeared first on The Robot Report .",
-      "url": "https://www.therobotreport.com/boston-dynamics-atlas-humanoid-lands-first-non-automotive-trial/",
-      "source": "The Robot Report",
-      "category": "ROBOTICS",
-      "published": "Tue, 17 Nov 2026 14:49:05 +0000"
-    },
-    {
-      "id": "f31201ec0ba58648",
-      "title": "The hidden reason most robots fail on the factory floor",
-      "summary": "Evan Beard explains how AI-native robotics could make automation easier to program and help American manufacturing compete globally. The post The hidden reason most robots fail on the factory floor appeared first on The Robot Report .",
-      "url": "https://www.therobotreport.com/the-hidden-reason-most-robots-fail-on-the-factory-floor/",
-      "source": "The Robot Report",
-      "category": "ROBOTICS",
-      "published": "Mon, 16 Nov 2026 23:49:56 +0000"
     },
     {
       "id": "5beef147a7815df4",

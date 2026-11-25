@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T08:27:10.228207+00:00",
+  "updated": "2026-11-25T21:38:37.043565+00:00",
   "total": 78,
   "news": [
     {
@@ -408,6 +408,24 @@
       "published": "Wed, 07 Oct 2026 12:00:00 +0000"
     },
     {
+      "id": "a5009cb242e7461a",
+      "title": "How Vention is cutting factory programming from weeks to minutes",
+      "summary": "Etienne Lacroix explains why AI deployment—not just better models—will define the future of industrial automation. The post How Vention is cutting factory programming from weeks to minutes appeared first on The Robot Report .",
+      "url": "https://www.therobotreport.com/how-vention-is-cutting-factory-programming-from-weeks-to-minutes/",
+      "source": "The Robot Report",
+      "category": "ROBOTICS",
+      "published": "Wed, 25 Nov 2026 18:24:42 +0000"
+    },
+    {
+      "id": "77edf77802f61795",
+      "title": "FCC should focus on robot security, not country of origin",
+      "summary": "Where a robot was assembled tells you little about who controls it once it's deployed, writes Brain Corp CEO David Pinn. The post FCC should focus on robot security, not country of origin appeared first on The Robot Report .",
+      "url": "https://www.therobotreport.com/fcc-should-focus-on-robot-security-not-country-of-origin/",
+      "source": "The Robot Report",
+      "category": "ROBOTICS",
+      "published": "Wed, 25 Nov 2026 17:00:07 +0000"
+    },
+    {
       "id": "ba0114c253413340",
       "title": "Robotics Summit 2027 opens call for speakers",
       "summary": "The Robotics Summit &#038; Expo returns to Boston June 2-3, 2027 with deepened coverage, an expanded expo floor, and more. The post Robotics Summit 2027 opens call for speakers appeared first on The Robot Report .",
@@ -525,22 +543,13 @@
       "published": "Wed, 18 Nov 2026 16:44:18 +0000"
     },
     {
-      "id": "62b5fb3e14c61472",
-      "title": "California DMV bars Waymo AVs from operating on the state’s freeways",
-      "summary": "The DMV determined that Waymo's freeway operations \"pose an imminent hazard to public safety due to recurring incursions by its vehicles.\" The post California DMV bars Waymo AVs from operating on the state&#8217;s freeways appeared first on The Robot Report .",
-      "url": "https://www.therobotreport.com/california-dmv-bars-waymo-avs-from-operating-on-the-states-freeways/",
-      "source": "The Robot Report",
-      "category": "ROBOTICS",
-      "published": "Tue, 17 Nov 2026 23:55:07 +0000"
-    },
-    {
-      "id": "49b74b50751adb23",
-      "title": "Learn how AI is changing supply chain robotics",
-      "summary": "The live webinar, \"Robots in the Supply Chain,\" will take place Wednesday, November 18, 2026, at 12 P.M. ET. The post Learn how AI is changing supply chain robotics appeared first on The Robot Report .",
-      "url": "https://www.therobotreport.com/learn-how-ai-is-changing-supply-chain-robotics/",
-      "source": "The Robot Report",
-      "category": "ROBOTICS",
-      "published": "Tue, 17 Nov 2026 19:58:18 +0000"
+      "id": "54f2316ecc01fa7a",
+      "title": "Merry Making: Play, Build and Create With NVIDIA Technologies This Holiday Season",
+      "summary": "The elves don’t have to be the only ones busy in the workshop this holiday season. With the lights twinkling and the gift wrap out, it’s the perfect time to give someone — or yourself — a spark to take a hobby to the next level. For some, that means diving into a new game. [&#8230;]",
+      "url": "https://blogs.nvidia.com/blog/nvidia-technologies-holidays-2026/",
+      "source": "NVIDIA Robotics",
+      "category": "HUMANOIDS",
+      "published": "Mon, 23 Nov 2026 17:00:08 +0000"
     },
     {
       "id": "5beef147a7815df4",
@@ -694,15 +703,6 @@
       "source": "NVIDIA Robotics",
       "category": "HUMANOIDS",
       "published": "Wed, 10 Jun 2026 19:00:12 +0000"
-    },
-    {
-      "id": "e928fe4595db8fc2",
-      "title": "NVIDIA and Doosan Group Collaborate to Advance Physical AI and AI Factory Infrastructure",
-      "summary": "NVIDIA and Doosan Group are expanding their collaboration to advance new opportunities across physical AI, robotics and AI factory infrastructure, spanning Doosan Robotics, Doosan Bobcat, Doosan Enerbility and Doosan Corporation Electro-Materials BG. The collaboration will bring together NVIDIA’s full-stack accelerated computing platforms with Doosan Group’s capabilities in industrial automation, power generation and advanced electronics material",
-      "url": "https://blogs.nvidia.com/blog/nvidia-and-doosan-group-physical-ai/",
-      "source": "NVIDIA Robotics",
-      "category": "HUMANOIDS",
-      "published": "Sun, 07 Jun 2026 23:00:36 +0000"
     }
   ]
 }

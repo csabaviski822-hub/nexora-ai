@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T08:22:36.550747+00:00",
+  "updated": "2026-11-27T21:13:09.293761+00:00",
   "total": 78,
   "news": [
     {
@@ -408,6 +408,15 @@
       "published": "Wed, 07 Oct 2026 12:00:00 +0000"
     },
     {
+      "id": "fcdd3f112f74f9c6",
+      "title": "GXO doubling down on robotics in 2027",
+      "summary": "GXO didn't disclose which providers it would increase deployments with, but let's take a look at the existing technologies in its portfolio. The post GXO doubling down on robotics in 2027 appeared first on The Robot Report .",
+      "url": "https://www.therobotreport.com/gxo-doubling-down-on-robotics-in-2027/",
+      "source": "The Robot Report",
+      "category": "ROBOTICS",
+      "published": "Fri, 27 Nov 2026 13:56:43 +0000"
+    },
+    {
       "id": "a5009cb242e7461a",
       "title": "How Vention is cutting factory programming from weeks to minutes",
       "summary": "Etienne Lacroix explains why AI deployment—not just better models—will define the future of industrial automation. The post How Vention is cutting factory programming from weeks to minutes appeared first on The Robot Report .",
@@ -532,15 +541,6 @@
       "source": "The Robot Report",
       "category": "ROBOTICS",
       "published": "Wed, 18 Nov 2026 18:00:09 +0000"
-    },
-    {
-      "id": "34b0f473ab7d7a01",
-      "title": "Rockwell Automation acquiring mobile robot maker AGILOX",
-      "summary": "Rockwell Automation has agreed to acquire autonomous mobile robot developer AGILOX, expanding its mobile robotics portfolio following its 2023 acquisition of OTTO Motors. The post Rockwell Automation acquiring mobile robot maker AGILOX appeared first on The Robot Report .",
-      "url": "https://www.therobotreport.com/rockwell-automation-acquiring-mobile-robot-maker-agilox/",
-      "source": "The Robot Report",
-      "category": "ROBOTICS",
-      "published": "Wed, 18 Nov 2026 16:44:18 +0000"
     },
     {
       "id": "54f2316ecc01fa7a",
